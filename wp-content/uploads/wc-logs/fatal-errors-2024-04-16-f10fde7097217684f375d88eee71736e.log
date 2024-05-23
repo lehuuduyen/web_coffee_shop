@@ -1,0 +1,79 @@
+2024-04-16T11:31:44+07:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php:19
+Stack trace:
+#0 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/admin-page.php(38): include()
+#1 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/class-earningpoints-admin.php(54): include_once('/home/queenbox/...')
+#2 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(310): EarningPointsAdmin->display_plugin_admin_dashboard()
+#3 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/queenbox/domains/queenbox.vn/public_html/wp-admin/admin.php(259): do_action()
+#6 {main}
+  thrown in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php on line 19
+
+2024-04-16T16:04:27+07:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php:19
+Stack trace:
+#0 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/admin-page.php(38): include()
+#1 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/class-earningpoints-admin.php(54): include_once('/home/queenbox/...')
+#2 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(310): EarningPointsAdmin->display_plugin_admin_dashboard()
+#3 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/queenbox/domains/queenbox.vn/public_html/wp-admin/admin.php(259): do_action()
+#6 {main}
+  thrown in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php on line 19
+
+2024-04-16T16:04:57+07:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php:19
+Stack trace:
+#0 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/admin-page.php(38): include()
+#1 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/class-earningpoints-admin.php(54): include_once('/home/queenbox/...')
+#2 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(310): EarningPointsAdmin->display_plugin_admin_dashboard()
+#3 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/queenbox/domains/queenbox.vn/public_html/wp-admin/admin.php(259): do_action()
+#6 {main}
+  thrown in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php on line 19
+
+2024-04-16T16:05:22+07:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php:19
+Stack trace:
+#0 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/admin-page.php(38): include()
+#1 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/class-earningpoints-admin.php(54): include_once('/home/queenbox/...')
+#2 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(310): EarningPointsAdmin->display_plugin_admin_dashboard()
+#3 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/queenbox/domains/queenbox.vn/public_html/wp-admin/admin.php(259): do_action()
+#6 {main}
+  thrown in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php on line 19
+
+2024-04-16T16:07:03+07:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php:19
+Stack trace:
+#0 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/admin-page.php(38): include()
+#1 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/class-earningpoints-admin.php(54): include_once('/home/queenbox/...')
+#2 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(310): EarningPointsAdmin->display_plugin_admin_dashboard()
+#3 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/queenbox/domains/queenbox.vn/public_html/wp-admin/admin.php(259): do_action()
+#6 {main}
+  thrown in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php on line 19
+
+2024-04-16T16:07:29+07:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php:19
+Stack trace:
+#0 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/admin-page.php(38): include()
+#1 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/class-earningpoints-admin.php(54): include_once('/home/queenbox/...')
+#2 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(310): EarningPointsAdmin->display_plugin_admin_dashboard()
+#3 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/queenbox/domains/queenbox.vn/public_html/wp-admin/admin.php(259): do_action()
+#6 {main}
+  thrown in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php on line 19
+
+2024-04-16T16:08:05+07:00 CRITICAL Uncaught Error: Cannot use string offset as an array in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php:20
+Stack trace:
+#0 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/admin-page.php(38): include()
+#1 /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/class-earningpoints-admin.php(54): include_once('/home/queenbox/...')
+#2 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(310): EarningPointsAdmin->display_plugin_admin_dashboard()
+#3 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /home/queenbox/domains/queenbox.vn/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/queenbox/domains/queenbox.vn/public_html/wp-admin/admin.php(259): do_action()
+#6 {main}
+  thrown in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php on line 20
+
+2024-04-16T16:16:39+07:00 CRITICAL syntax error, unexpected ';', expecting ')' in /home/queenbox/domains/queenbox.vn/public_html/wp-content/plugins/earning-points-system/admin/views/event.php on line 5
+

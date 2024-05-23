@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VBP - Zalo OA for WordPress\n"
+"POT-Creation-Date: 2024-01-20 00:55+0700\n"
+"PO-Revision-Date: 2024-01-20 00:56+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: devvn-zalo-oa.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: devvn-zalo-oa.php:43
+msgid ""
+"Để Plugin <strong>VBP - Zalo OA for WordPress</strong> hoạt động, bắt buộc "
+"cần kích hoạt <strong>php extension ionCube</strong>."
+msgstr ""
+"Để Plugin <strong>VBP - Zalo OA for WordPress</strong> hoạt động, bắt buộc "
+"cần kích hoạt <strong>php extension ionCube</strong>."
+
+#: includes/campaigns-table.php:166 includes/zalooa-sms-table.php:481
+#: includes/zalooa-sms-table.php:594
+msgid "Xóa"
+msgstr "Xóa"
+
+#: includes/functions.php:9
+#, php-format
+msgid "Ngày hết hạn: %s"
+msgstr "Ngày hết hạn: %s"
+
+#: includes/functions.php:163
+msgid "Weekly"
+msgstr "Weekly"
+
+#: includes/lib/wp-background-process.php:653
+msgid "Every Minute"
+msgstr "Every Minute"
+
+#: includes/lib/wp-background-process.php:655
+#, php-format
+msgid "Every %d Minutes"
+msgstr "Every %d Minutes"
+
+#: includes/main.php:183
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/main.php:191 includes/settings/main.php:17
+msgid "Cài đặt Zalo OA"
+msgstr "Cài đặt Zalo OA"
+
+#: includes/main.php:192
+msgid "VBP - Zalo OA"
+msgstr "VBP - Zalo OA"
+
+#: includes/main.php:383
+msgid "Kết nối thành công"
+msgstr "Kết nối thành công"
+
+#: includes/main.php:665 includes/main.php:795
+msgid "Mã đơn hàng"
+msgstr "Mã đơn hàng"
+
+#: includes/main.php:666
+msgid "Order Key. Dùng cho giá trị link xem chi tiết đơn hàng"
+msgstr "Order Key. Dùng cho giá trị link xem chi tiết đơn hàng"
+
+#: includes/main.php:667
+msgid "Tổng tiền đơn hàng"
+msgstr "Tổng tiền đơn hàng"
+
+#: includes/main.php:668
+msgid "Tổng tiền đơn hàng có định dạng. Không dùng cho template ZNS"
+msgstr "Tổng tiền đơn hàng có định dạng. Không dùng cho template ZNS"
+
+#: includes/main.php:669
+msgid "Link xem chi tiết đơn hàng"
+msgstr "Link xem chi tiết đơn hàng"
+
+#: includes/main.php:670
+msgid ""
+"Link xem chi tiết đơn hàng. Đã encode url. Không có tên domain trong link"
+msgstr ""
+"Link xem chi tiết đơn hàng. Đã encode url. Không có tên domain trong link"
+
+#: includes/main.php:671
+msgid "Trạng thái đơn hàng"
+msgstr "Trạng thái đơn hàng"
+
+#: includes/main.php:672
+msgid "Tên khách hàng"
+msgstr "Tên khách hàng"
+
+#: includes/main.php:673
+msgid "Tổng tiền ship"
+msgstr "Tổng tiền ship"
+
+#: includes/main.php:674
+msgid "Ngày tạo đơn"
+msgstr "Ngày tạo đơn"
+
+#: includes/main.php:675
+msgid "Tên sản phẩm. Nếu template đánh giá thì không chọn cái này"
+msgstr "Tên sản phẩm. Nếu template đánh giá thì không chọn cái này"
+
+#: includes/main.php:676
+msgid "Ghi chú của khách hàng"
+msgstr "Ghi chú của khách hàng"
+
+#: includes/main.php:677
+msgid "Số điện thoại khách hàng"
+msgstr "Số điện thoại khách hàng"
+
+#: includes/main.php:678
+msgid "Địa chỉ của khách hàng"
+msgstr "Địa chỉ của khách hàng"
+
+#: includes/main.php:788
+msgid "Bạn có đơn hàng mới"
+msgstr "Bạn có đơn hàng mới"
+
+#: includes/main.php:791
+msgid ""
+"• Cảm ơn bạn đã mua hàng.\n"
+"• Thông tin đơn hàng của bạn như sau:"
+msgstr ""
+"• Cảm ơn bạn đã mua hàng.\n"
+"• Thông tin đơn hàng của bạn như sau:"
+
+#: includes/main.php:798
+msgid "{order_id}"
+msgstr "{order_id}"
+
+#: includes/main.php:801
+msgid "Tổng đơn"
+msgstr "Tổng đơn"
+
+#: includes/main.php:804
+msgid "{order_total_view}"
+msgstr "{order_total_view}"
+
+#: includes/main.php:807
+msgid "📱 Quý khách lưu ý điện thoại. Xin cảm ơn!"
+msgstr "📱 Quý khách lưu ý điện thoại. Xin cảm ơn!"
+
+#: includes/main.php:812
+msgid "Xem chi tiết đơn hàng!"
+msgstr "Xem chi tiết đơn hàng!"
+
+#: includes/main.php:818
+msgid "Gọi Hotline"
+msgstr "Gọi Hotline"
+
+#: includes/main.php:844
+msgid "Khuyến mãi khủng trong tháng"
+msgstr "Khuyến mãi khủng trong tháng"
+
+#: includes/main.php:847
+msgid ""
+"Khuyến mãi khủng trong tháng dành riêng cho bạn. Thông tin chi tiết như sau:"
+msgstr ""
+"Khuyến mãi khủng trong tháng dành riêng cho bạn. Thông tin chi tiết như sau:"
+
+#: includes/main.php:855
+msgid "Áp dụng tất cả cửa hàng trên toàn quốc"
+msgstr "Áp dụng tất cả cửa hàng trên toàn quốc"
+
+#: includes/main.php:860
+msgid "Tham khảo chương trình!"
+msgstr "Tham khảo chương trình!"
+
+#: includes/main.php:866
+msgid "Liên hệ chăm sóc viên"
+msgstr "Liên hệ chăm sóc viên"
+
+#: includes/main.php:918
+msgid "Trạng thái"
+msgstr "Trạng thái"
+
+#: includes/main.php:985
+msgid "Đơn hàng mới"
+msgstr "Đơn hàng mới"
+
+#: includes/main.php:2220
+#, php-format
+msgid "Lỗi %1$s: %2$s"
+msgstr "Lỗi %1$s: %2$s"
+
+#: includes/main.php:2224
+msgid "Không có dữ liệu"
+msgstr "Không có dữ liệu"
+
+#: includes/main.php:2569
+msgid "Thiếu thông tin đầu vào"
+msgstr "Thiếu thông tin đầu vào"
+
+#: includes/main.php:2598
+msgid "Có lỗi khi gửi yêu cầu"
+msgstr "Có lỗi khi gửi yêu cầu"
+
+#: includes/main.php:2601
+msgid "Đã yêu cầu gửi lại"
+msgstr "Đã yêu cầu gửi lại"
+
+#: includes/main.php:2613 includes/main.php:2629
+msgid "Thiếu thông tin"
+msgstr "Thiếu thông tin"
+
+#: includes/main.php:2628
+msgid "Thiếu tên chiến dịch"
+msgstr "Thiếu tên chiến dịch"
+
+#: includes/main.php:2645
+msgid "Đã thêm chiến dịch thành công"
+msgstr "Đã thêm chiến dịch thành công"
+
+#: includes/main.php:2652
+msgid "Đã cập nhật thành công"
+msgstr "Đã cập nhật thành công"
+
+#: includes/main.php:2665
+msgid "Có lỗi khi thêm chiến dịch: "
+msgstr "Có lỗi khi thêm chiến dịch: "
+
+#: includes/main.php:2892
+msgid "Login with Zalo"
+msgstr "Đăng nhập bằng Zalo"
+
+#. translators: %s template
+#: includes/main.php:2981
+#, php-format
+msgid "%s không tồn tại."
+msgstr "%s không tồn tại."
+
+#: includes/settings/all-mess.php:12 includes/settings/all-phone.php:46
+#: includes/settings/campaigns.php:17
+#, php-format
+msgid "Đã xóa: %d"
+msgstr "Đã xóa: %d"
+
+#: includes/settings/campaigns-add.php:6
+msgid "Tạo chiến dịch mới"
+msgstr "Tạo chiến dịch mới"
+
+#: includes/settings/campaigns-add.php:20
+msgid "Sửa chiến dịch"
+msgstr "Sửa chiến dịch"
+
+#: includes/settings/campaigns-add.php:233
+#: includes/settings/section-change-status.php:159
+#: includes/settings/section-new-order.php:155
+#: includes/settings/section-to-completed.php:160
+msgid "Tên nút"
+msgstr "Tên nút"
+
+#: includes/settings/campaigns-add.php:236
+#: includes/settings/section-change-status.php:162
+#: includes/settings/section-new-order.php:158
+#: includes/settings/section-to-completed.php:163
+msgid "Giá trị nút"
+msgstr "Giá trị nút"
+
+#: includes/settings/campaigns-add.php:264
+#: includes/settings/section-zns-general.php:71
+#: includes/settings/section-zns-general.php:93
+#: includes/settings/section-zns-general.php:115
+#: includes/settings/section-zns-general.php:137
+#: includes/settings/section-zns-general.php:162
+msgid "Chọn mẫu tin ZNS"
+msgstr "Chọn mẫu tin ZNS"
+
+#: includes/settings/campaigns-add.php:306
+msgid "Chọn tệp"
+msgstr "Chọn tệp"
+
+#: includes/settings/general.php:40
+msgid "Redirect URI"
+msgstr "Redirect URI"
+
+#: includes/settings/general.php:48
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#: includes/settings/license.php:22
+msgid "License Key"
+msgstr "License Key"
+
+#: includes/settings/license.php:26
+msgid "Active License"
+msgstr "Active License"
+
+#: includes/settings/main.php:22
+msgid "Cài đặt chung"
+msgstr "Cài đặt chung"
+
+#: includes/settings/main.php:24
+msgid "ZNS API"
+msgstr "ZNS API"
+
+#: includes/settings/main.php:25
+msgid "Gửi tin giao dịch"
+msgstr "Gửi tin giao dịch"
+
+#: includes/settings/main.php:26
+msgid "Chiến dịch gửi tin"
+msgstr "Chiến dịch gửi tin"
+
+#: includes/settings/main.php:27
+msgid "Quản lý tin nhắn"
+msgstr "Quản lý tin nhắn"
+
+#: includes/settings/main.php:28
+msgid "Quản lý số điện thoại"
+msgstr "Quản lý số điện thoại"
+
+#: includes/settings/main.php:29
+msgid "Đăng nhập bằng Zalo"
+msgstr "Đăng nhập bằng Zalo"
+
+#: includes/settings/main.php:32
+msgid "License"
+msgstr "License"
+
+#: includes/settings/main.php:33
+msgid "Check update"
+msgstr "Check update"
+
+#: includes/settings/section-zns-general.php:62
+#: includes/settings/section-zns-general.php:89
+#: includes/settings/section-zns-general.php:111
+#: includes/settings/section-zns-general.php:133
+#: includes/settings/section-zns-general.php:155
+msgid "Kích hoạt"
+msgstr "Kích hoạt"
+
+#: includes/settings/section-zns-general.php:64
+msgid "Gửi tin cho sđt admin OA khi có đơn hàng mới"
+msgstr "Gửi tin cho sđt admin OA khi có đơn hàng mới"
+
+#: includes/settings/section-zns-general.php:65
+msgid "Tin này gửi ở chế độ development nên sẽ không mất tiền zns"
+msgstr "Tin này gửi ở chế độ development nên sẽ không mất tiền zns"
+
+#: includes/settings/section-zns-general.php:66
+msgid "Số điện thoại Admin OA. Mỗi số cách nhau dấu phẩy (,)"
+msgstr "Số điện thoại Admin OA. Mỗi số cách nhau dấu phẩy (,)"
+
+#: includes/settings/section-zns-general.php:90
+msgid "Khi có đơn hàng mới"
+msgstr "Khi có đơn hàng mới"
+
+#: includes/settings/section-zns-general.php:112
+msgid "Khi thay đổi trạng thái đơn hàng"
+msgstr "Khi thay đổi trạng thái đơn hàng"
+
+#: includes/settings/section-zns-general.php:134
+msgid "Khi đơn hoàn thành"
+msgstr "Khi đơn hoàn thành"
+
+#: includes/settings/transaction.php:11
+msgid "Khi có đơn mới"
+msgstr "Khi có đơn mới"
+
+#: includes/settings/transaction.php:14
+msgid "Khi thay đổi trạng thái"
+msgstr "Khi thay đổi trạng thái"
+
+#: includes/settings/transaction.php:17
+msgid "Khi hoàn thành"
+msgstr "Khi hoàn thành"
+
+#: includes/settings/zns.php:38
+msgid "Danh sách template"
+msgstr "Danh sách template"
+
+#: includes/settings/zns.php:41
+msgid "Cấu hình gửi tin"
+msgstr "Cấu hình gửi tin"
+
+#: includes/zalooa-sms-table.php:610
+#, php-format
+msgid "Lỗi (%1$s) %2$s"
+msgstr "Lỗi (%1$s) %2$s"
+
+#. Plugin Name of the plugin/theme
+msgid "VBP - Zalo OA for WordPress"
+msgstr "VBP - Zalo OA for WordPress"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://levantoan.com"
+msgstr "https://levantoan.com"
+
+#. Description of the plugin/theme
+msgid "Tích hợp Zalo OA vào WordPress + Woocommerce để gửi thông tin đơn hàng"
+msgstr "Tích hợp Zalo OA vào WordPress + Woocommerce để gửi thông tin đơn hàng"
+
+#. Author of the plugin/theme
+msgid "Lê Văn Toản"
+msgstr "Lê Văn Toản"

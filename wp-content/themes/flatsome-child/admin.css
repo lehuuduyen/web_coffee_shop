@@ -1,0 +1,20 @@
+/* Category Product */
+.categorydiv div.tabs-panel, .customlinkdiv div.tabs-panel, .posttypediv div.tabs-panel, .taxonomydiv div.tabs-panel, .wp-tab-panel {max-height:500px}
+#product_catchecklist {display:grid}
+#product_catchecklist ul.children {display:none}
+#product_catchecklist li:hover ul.children {display:block}
+#product_cat-148, #product_cat-149 {background:url(/wp-content/uploads/2022/11/icon-hotsale.png);background-repeat: no-repeat;background-size: contain;background-position: right;}
+#product_cat-148 {order:1}
+#product_cat-149 {order:2}
+
+/* Attributes Product */
+#product_attributes .attribute_taxonomy {display:grid}
+#product_attributes .attribute_taxonomy option[disabled="disabled"] {display:none}
+#product_attributes .attribute_taxonomy option[value="pa_thuong-hieu"] {order: 1}
+#woocommerce-product-data #product_attributes .product_attributes {max-height:300px;overflow:auto}
+.attributes-table .attribute-terms {text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 4;-webkit-box-orient: vertical;overflow: hidden;width: 300px !important;padding: 0;margin: 10px;}
+
+#ui-datepicker-div {z-index:9999 !important}
+.theme-info form, .theme-info .theme-tags, .theme-info .theme-tags+p {display:none}
+.form-wrap #acf-term-fields .acf-field {padding:0 10px}
+.inline-edit-categories ul.cat-checklist {height: 450px;}

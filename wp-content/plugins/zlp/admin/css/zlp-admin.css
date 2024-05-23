@@ -1,0 +1,32 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/*.woocommerce-checkout #payment ul.payment_methods li.payment_method_zlp_atm img {*/
+/*   width: 75px !important;*/
+/*}*/
+
+.payment_method_zlp img,
+.payment_method_zlp_atm img,
+.payment_method_zlp_cc img {
+   width: 60px !important;
+   margin-bottom: 2px !important;
+   height: 20px !important;
+}
+
+.payment_method_zlp_vietqr img {
+   width: 60px !important;
+   margin-bottom: 7px !important;
+   height: 26px !important;
+}
+
+.payment_method_zlp_applepay img {
+   width: 40px !important;
+   margin-bottom: 7px !important;
+   height: 26px !important;
+}
+
+.payment_method_zlp_applepay p {
+   color: red;
+}

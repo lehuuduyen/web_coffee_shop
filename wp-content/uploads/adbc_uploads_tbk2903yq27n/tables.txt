@@ -1,0 +1,107 @@
+commentmeta:w:w
+comments:w:w
+links:w:w
+options:w:w
+postmeta:w:w
+posts:w:w
+term_relationships:w:w
+term_taxonomy:w:w
+termmeta:w:w
+terms:w:w
+usermeta:w:w
+users:w:w
+woocommerce_attribute_taxonomies:flatsome-child:t
+woocommerce_log:flatsome:t
+wc_product_meta_lookup:woocommerce:p
+woocommerce_order_items:woocommerce:p
+woocommerce_tax_rates:woocommerce:p
+woocommerce_order_itemmeta:woocommerce:p
+woocommerce_downloadable_product_permissions:woocommerce:p
+woocommerce_api_keys:woocommerce:p
+wc_download_log:woocommerce:p
+woocommerce_payment_tokenmeta:woocommerce:p
+woocommerce_payment_tokens:woocommerce:p
+woocommerce_shipping_zone_locations:woocommerce:p
+woocommerce_shipping_zone_methods:woocommerce:p
+woocommerce_shipping_zones:woocommerce:p
+wc_webhooks:woocommerce:p
+woocommerce_tax_rate_locations:woocommerce:p
+wc_admin_note_actions:woocommerce:p
+wc_admin_notes:woocommerce:p
+wc_order_stats:woocommerce:p
+woocommerce_sessions:woocommerce:p
+wc_category_lookup:woocommerce:p
+wc_customer_lookup:woocommerce:p
+wc_order_coupon_lookup:woocommerce:p
+wc_order_product_lookup:woocommerce:p
+wc_order_tax_lookup:woocommerce:p
+wc_product_download_directories:woocommerce:p
+wc_rate_limits:woocommerce:p
+wc_reserved_stock:woocommerce:p
+wc_tax_rate_classes:woocommerce:p
+actionscheduler_logs:woocommerce:p
+actionscheduler_actions:woocommerce:p
+actionscheduler_claims:woocommerce:p
+actionscheduler_groups:woocommerce:p
+wc_product_attributes_lookup:woocommerce:p
+litespeed_avatar:litespeed-cache:p
+litespeed_img_optm:litespeed-cache:p
+litespeed_img_optming:litespeed-cache:p
+litespeed_url:litespeed-cache:p
+litespeed_url_file:litespeed-cache:p
+yith_wcaf_payments:yith-woocommerce-affiliates:p
+yith_wcaf_payment_commission:yith-woocommerce-affiliates:p
+yith_wcaf_commissions:yith-woocommerce-affiliates:p
+yith_wcaf_affiliates:yith-woocommerce-affiliates:p
+yith_wcaf_clicks:yith-woocommerce-affiliates:p
+yith_wcaf_commission_notes:yith-woocommerce-affiliates:p
+yith_wcaf_payment_notes:yith-woocommerce-affiliates:p
+yith_wcaf_rate_rulemeta:yith-woocommerce-affiliates:p
+yith_wcaf_rate_rules:yith-woocommerce-affiliates:p
+yith_ywpar_points_log:yith-woocommerce-points-and-rewards-premium:p
+dokan_orders:dokan-pro:p
+dokan_withdraw:dokan-pro:p
+dokan_announcement:dokan-pro:p
+dokan_shipping_zone_locations:dokan-pro:p
+dokan_refund:dokan-pro:p
+dokan_rma_request:dokan-pro:p
+dokan_shipping_tracking:dokan-pro:p
+dokan_shipping_zone_methods:dokan-pro:p
+dokan_vendor_balance:dokan-pro:p
+dokan_distance_rate_shipping:dokan-pro:p
+dokan_table_rate_shipping:dokan-pro:p
+dokan_delivery_time:dokan-pro:p
+dokan_product_map:dokan-pro:p
+dokan_follow_store_followers:dokan-pro:p
+dokan_advertised_products:dokan-pro:p
+dokan_report_abuse_reports:dokan-pro:p
+dokan_rma_request_product:dokan-pro:p
+dokan_rma_conversations:dokan-pro:p
+wpmailsmtp_debug_events:wp-mail-smtp-pro:p
+wpmailsmtp_tasks_meta:wp-mail-smtp-pro:p
+dokan_reverse_withdrawal:dokan-lite:p
+fsmh_campaigns:flash-sale-mh:p
+fsmh_products:flash-sale-mh:p
+affiliate_wp_affiliatemeta:yith-woocommerce-affiliates (42.31%):p
+affiliate_wp_affiliates:yith-woocommerce-affiliates (47.83%):p
+affiliate_wp_campaigns:yith-woocommerce-affiliates (50%):p
+affiliate_wp_coupons:yith-woocommerce-affiliates (55%):p
+affiliate_wp_creatives:yith-woocommerce-affiliates (50%):p
+affiliate_wp_customermeta:yith-woocommerce-affiliates (44%):p
+affiliate_wp_customers:yith-woocommerce-affiliates (50%):p
+affiliate_wp_payouts:yith-woocommerce-affiliates (55%):p
+affiliate_wp_referralmeta:yith-woocommerce-affiliates (44%):p
+affiliate_wp_referrals:yith-woocommerce-affiliates (50%):p
+affiliate_wp_rest_consumers:yith-woocommerce-affiliates (40.74%):p
+affiliate_wp_sales:yith-woocommerce-affiliates (61.11%):p
+affiliate_wp_visits:yith-woocommerce-affiliates (57.89%):p
+reviewx_criterias: (35.29%):w
+ta_link_clicks: (35.71%):w
+wc_comments_subscription:dokan-lite (45.83%):p
+wc_phrases:woocommerce (50%):p
+wc_users_rated:woocommerce (64.29%):p
+wc_users_voted:woocommerce (64.29%):p
+wemail_forms:dokan-lite (58.33%):p
+wpam_events:wp-mail-smtp-pro (36.36%):p
+wpam_messages:woocommerce (76.92%):p
+wpam_transactions:dokan-lite (76.47%):p

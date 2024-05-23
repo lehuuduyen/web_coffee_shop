@@ -1,0 +1,128 @@
+term_relationships:w:w
+options:w:w
+postmeta:w:w
+terms:w:w
+users:w:w
+posts:w:w
+usermeta:w:w
+termmeta:w:w
+term_taxonomy:w:w
+commentmeta:w:w
+links:w:w
+comments:w:w
+woocommerce_attribute_taxonomies:flatsome-child:t
+mstore_checkout:flatsome:t
+woocommerce_log:flatsome:t
+admin_columns:seo-by-rank-math-pro:p
+rank_math_404_logs:seo-by-rank-math-pro:p
+rank_math_analytics_ga:seo-by-rank-math-pro:p
+rank_math_analytics_gsc:seo-by-rank-math-pro:p
+rank_math_analytics_objects:seo-by-rank-math-pro:p
+rank_math_internal_meta:seo-by-rank-math-pro:p
+woo_history_share_link:woo_affliate:p
+woo_history_user_commission:woo_affliate:p
+icl_translations:advanced-custom-fields-pro:p
+actionscheduler_actions:woocommerce:p
+actionscheduler_logs:woocommerce:p
+actionscheduler_claims:woocommerce:p
+actionscheduler_groups:woocommerce:p
+wc_reserved_stock:woocommerce:p
+wc_rate_limits:woocommerce:p
+wc_product_meta_lookup:woocommerce:p
+wc_product_attributes_lookup:woocommerce:p
+woocommerce_sessions:woocommerce:p
+wc_orders:woocommerce:p
+wc_order_operational_data:woocommerce:p
+wc_order_addresses:woocommerce:p
+wc_orders_meta:woocommerce:p
+woocommerce_shipping_zone_locations:woocommerce:p
+woocommerce_tax_rates:woocommerce:p
+wc_product_download_directories:woocommerce:p
+wc_category_lookup:woocommerce:p
+wc_order_stats:woocommerce:p
+wc_customer_lookup:woocommerce:p
+woocommerce_order_items:woocommerce:p
+woocommerce_order_itemmeta:woocommerce:p
+woocommerce_shipping_zone_methods:woocommerce:p
+woocommerce_shipping_zones:woocommerce:p
+wc_admin_note_actions:woocommerce:p
+wc_admin_notes:woocommerce:p
+wc_download_log:woocommerce:p
+wc_order_product_lookup:woocommerce:p
+wc_order_coupon_lookup:woocommerce:p
+wc_order_tax_lookup:woocommerce:p
+woocommerce_downloadable_product_permissions:woocommerce:p
+woocommerce_api_keys:woocommerce:p
+woocommerce_payment_tokenmeta:woocommerce:p
+wc_tax_rate_classes:woocommerce:p
+woocommerce_tax_rate_locations:woocommerce:p
+wc_webhooks:woocommerce:p
+woocommerce_payment_tokens:woocommerce:p
+wpmailsmtp_debug_events:wp-mail-smtp:p
+wpmailsmtp_tasks_meta:wp-mail-smtp:p
+woo_setting:woo_point:p
+woo_rank:woo_point:p
+woo_history_user_point:woo_point:p
+rank_math_internal_links:seo-by-rank-math:p
+reviewx_criterias:button-contact-vr (35.29%):p
+affiliate_wp_affiliatemeta:seo-by-rank-math (38.46%):p
+icl_translate_job:advanced-custom-fields-pro (70.59%):p
+wc_users_rated:woocommerce (64.29%):p
+affiliate_wp_coupons:flatsome-child (50%):t
+mepr_events:woocommerce (36.36%):p
+automatewoo_logs:woocommerce (75%):p
+erp_peoplemeta:seo-by-rank-math (35.71%):p
+icl_translation_status:advanced-custom-fields-pro (68.18%):p
+icl_reminders:seo-by-rank-math (76.92%):p
+icl_translation_downloads:advanced-custom-fields-pro (60%):p
+affiliate_wp_referralmeta:flatsome-child (40%):t
+automatewoo_guests:woocommerce (66.67%):p
+wpam_events:wp-mail-smtp (36.36%):p
+wpstg_queue:WPShapere (36.36%):p
+shortpixel_meta:seo-by-rank-math (40%):p
+litespeed_img_optm: (55.56%):w
+automatewoo_customers:woocommerce (57.14%):p
+erp_peoples:seo-by-rank-math (45.45%):p
+icl_flags:seo-by-rank-math (44.44%):p
+affiliate_wp_sales:flatsome-child (55.56%):t
+icl_languages_translations:flatsome (46.15%):t
+icl_translate:advanced-custom-fields-pro (76.92%):p
+wc_users_voted:woocommerce (64.29%):p
+mepr_tax_rate_locations:woocommerce (82.61%):p
+icl_node:flatsome (50%):t
+wdr_rules:all-in-one-wp-migration (77.78%):p
+automatewoo_queue_meta:woocommerce (54.55%):p
+affiliate_wp_visits:seo-by-rank-math (52.63%):p
+ta_link_clicks:woocommerce (35.71%):p
+automatewoo_log_meta:woocommerce (60%):p
+litespeed_avatar: (62.5%):w
+icl_languages:flatsome (92.31%):t
+wpam_transactions:woocommerce (76.47%):p
+wemail_forms: (50%):w
+icl_translation_batches:advanced-custom-fields-pro (65.22%):p
+litespeed_img_optming: (47.62%):w
+automatewoo_abandoned_carts:woocommerce (44.44%):p
+icl_locale_map:flatsome (35.71%):t
+wc_phrases:woocommerce (50%):p
+litespeed_url_file: (55.56%):w
+litespeed_url:all-in-one-wp-migration (76.92%):p
+automatewoo_customer_meta:woocommerce (48%):p
+mepr_jobs:woocommerce (44.44%):p
+affiliate_wp_affiliates:flatsome-child (43.48%):t
+mepr_tax_rates:woocommerce (78.57%):p
+affiliate_wp_payouts:flatsome-child (50%):t
+affiliate_wp_campaigns:seo-by-rank-math (45.45%):p
+affiliate_wp_customers:seo-by-rank-math (45.45%):p
+automatewoo_events:woocommerce (72.22%):p
+affiliate_wp_referrals:seo-by-rank-math (45.45%):p
+mepr_subscriptions:woocommerce (83.33%):p
+wsal_metadata:wp-mail-smtp (76.92%):p
+automatewoo_queue:woocommerce (70.59%):p
+affiliate_wp_customermeta:flatsome-child (40%):t
+automatewoo_guest_meta:woocommerce (54.55%):p
+wc_comments_subscription:seo-by-rank-math (45.83%):p
+wpam_messages:woocommerce (76.92%):p
+affiliate_wp_creatives:seo-by-rank-math (45.45%):p
+affiliate_wp_rest_consumers:flatsome-child (37.04%):t
+wpmailsmtp_emails_log:wp-mail-smtp (52.38%):p
+mepr_transactions:woocommerce (76.47%):p

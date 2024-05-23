@@ -1,0 +1,975 @@
+[INFO]-[2023/02/08 13:19:47] Cloning: 1675837186988's clone job's data is not in database, generating data
+[INFO]-[2023/02/08 13:19:48] DB Copy: Creating table wpstg0_actionscheduler_actions
+[INFO]-[2023/02/08 13:19:48] DB Copy: Table dA9Yw3_actionscheduler_actions contains 2966 rows 
+[INFO]-[2023/02/08 13:19:48] DB Copy: Copy data from dA9Yw3_actionscheduler_actions to wpstg0_actionscheduler_actions - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:49] DB Copy: Creating table wpstg0_actionscheduler_claims
+[INFO]-[2023/02/08 13:19:49] DB Copy: Table dA9Yw3_actionscheduler_claims contains 0 rows 
+[INFO]-[2023/02/08 13:19:49] DB Copy: Creating table wpstg0_actionscheduler_groups
+[INFO]-[2023/02/08 13:19:49] DB Copy: Table dA9Yw3_actionscheduler_groups contains 7 rows 
+[INFO]-[2023/02/08 13:19:49] DB Copy: Copy data from dA9Yw3_actionscheduler_groups to wpstg0_actionscheduler_groups - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:49] DB Copy: Creating table wpstg0_actionscheduler_logs
+[INFO]-[2023/02/08 13:19:49] DB Copy: Table dA9Yw3_actionscheduler_logs contains 8884 rows 
+[INFO]-[2023/02/08 13:19:49] DB Copy: Copy data from dA9Yw3_actionscheduler_logs to wpstg0_actionscheduler_logs - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:49] DB Copy: Creating table wpstg0_affiliate_wp_affiliatemeta
+[INFO]-[2023/02/08 13:19:49] DB Copy: Table dA9Yw3_affiliate_wp_affiliatemeta contains 0 rows 
+[INFO]-[2023/02/08 13:19:49] DB Copy: Creating table wpstg0_affiliate_wp_affiliates
+[INFO]-[2023/02/08 13:19:49] DB Copy: Table dA9Yw3_affiliate_wp_affiliates contains 0 rows 
+[INFO]-[2023/02/08 13:19:50] DB Copy: Creating table wpstg0_affiliate_wp_campaigns
+[INFO]-[2023/02/08 13:19:50] DB Copy: Table dA9Yw3_affiliate_wp_campaigns contains 0 rows 
+[INFO]-[2023/02/08 13:19:50] DB Copy: Creating table wpstg0_affiliate_wp_coupons
+[INFO]-[2023/02/08 13:19:50] DB Copy: Table dA9Yw3_affiliate_wp_coupons contains 0 rows 
+[INFO]-[2023/02/08 13:19:50] DB Copy: Creating table wpstg0_affiliate_wp_creatives
+[INFO]-[2023/02/08 13:19:50] DB Copy: Table dA9Yw3_affiliate_wp_creatives contains 0 rows 
+[INFO]-[2023/02/08 13:19:50] DB Copy: Creating table wpstg0_affiliate_wp_customermeta
+[INFO]-[2023/02/08 13:19:50] DB Copy: Table dA9Yw3_affiliate_wp_customermeta contains 0 rows 
+[INFO]-[2023/02/08 13:19:50] DB Copy: Creating table wpstg0_affiliate_wp_customers
+[INFO]-[2023/02/08 13:19:50] DB Copy: Table dA9Yw3_affiliate_wp_customers contains 0 rows 
+[INFO]-[2023/02/08 13:19:50] DB Copy: Creating table wpstg0_affiliate_wp_payouts
+[INFO]-[2023/02/08 13:19:50] DB Copy: Table dA9Yw3_affiliate_wp_payouts contains 0 rows 
+[INFO]-[2023/02/08 13:19:50] DB Copy: Creating table wpstg0_affiliate_wp_referralmeta
+[INFO]-[2023/02/08 13:19:50] DB Copy: Table dA9Yw3_affiliate_wp_referralmeta contains 0 rows 
+[INFO]-[2023/02/08 13:19:50] DB Copy: Creating table wpstg0_affiliate_wp_referrals
+[INFO]-[2023/02/08 13:19:50] DB Copy: Table dA9Yw3_affiliate_wp_referrals contains 0 rows 
+[INFO]-[2023/02/08 13:19:50] DB Copy: Creating table wpstg0_affiliate_wp_rest_consumers
+[INFO]-[2023/02/08 13:19:50] DB Copy: Table dA9Yw3_affiliate_wp_rest_consumers contains 0 rows 
+[INFO]-[2023/02/08 13:19:51] DB Copy: Creating table wpstg0_affiliate_wp_sales
+[INFO]-[2023/02/08 13:19:51] DB Copy: Table dA9Yw3_affiliate_wp_sales contains 0 rows 
+[INFO]-[2023/02/08 13:19:51] DB Copy: Creating table wpstg0_affiliate_wp_visits
+[INFO]-[2023/02/08 13:19:51] DB Copy: Table dA9Yw3_affiliate_wp_visits contains 0 rows 
+[INFO]-[2023/02/08 13:19:51] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2023/02/08 13:19:51] DB Copy: Table dA9Yw3_commentmeta contains 2079 rows 
+[INFO]-[2023/02/08 13:19:51] DB Copy: Copy data from dA9Yw3_commentmeta to wpstg0_commentmeta - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:51] DB Copy: Creating table wpstg0_comments
+[INFO]-[2023/02/08 13:19:51] DB Copy: Table dA9Yw3_comments contains 688 rows 
+[INFO]-[2023/02/08 13:19:51] DB Copy: Copy data from dA9Yw3_comments to wpstg0_comments - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:51] DB Copy: Creating table wpstg0_dokan_advertised_products
+[INFO]-[2023/02/08 13:19:51] DB Copy: Table dA9Yw3_dokan_advertised_products contains 0 rows 
+[INFO]-[2023/02/08 13:19:51] DB Copy: Creating table wpstg0_dokan_announcement
+[INFO]-[2023/02/08 13:19:51] DB Copy: Table dA9Yw3_dokan_announcement contains 0 rows 
+[INFO]-[2023/02/08 13:19:51] DB Copy: Creating table wpstg0_dokan_delivery_time
+[INFO]-[2023/02/08 13:19:51] DB Copy: Table dA9Yw3_dokan_delivery_time contains 0 rows 
+[INFO]-[2023/02/08 13:19:51] DB Copy: Creating table wpstg0_dokan_distance_rate_shipping
+[INFO]-[2023/02/08 13:19:51] DB Copy: Table dA9Yw3_dokan_distance_rate_shipping contains 0 rows 
+[INFO]-[2023/02/08 13:19:52] DB Copy: Creating table wpstg0_dokan_follow_store_followers
+[INFO]-[2023/02/08 13:19:52] DB Copy: Table dA9Yw3_dokan_follow_store_followers contains 0 rows 
+[INFO]-[2023/02/08 13:19:52] DB Copy: Creating table wpstg0_dokan_orders
+[INFO]-[2023/02/08 13:19:52] DB Copy: Table dA9Yw3_dokan_orders contains 4 rows 
+[INFO]-[2023/02/08 13:19:52] DB Copy: Copy data from dA9Yw3_dokan_orders to wpstg0_dokan_orders - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:52] DB Copy: Creating table wpstg0_dokan_product_map
+[INFO]-[2023/02/08 13:19:52] DB Copy: Table dA9Yw3_dokan_product_map contains 0 rows 
+[INFO]-[2023/02/08 13:19:52] DB Copy: Creating table wpstg0_dokan_refund
+[INFO]-[2023/02/08 13:19:52] DB Copy: Table dA9Yw3_dokan_refund contains 0 rows 
+[INFO]-[2023/02/08 13:19:52] DB Copy: Creating table wpstg0_dokan_report_abuse_reports
+[INFO]-[2023/02/08 13:19:52] DB Copy: Table dA9Yw3_dokan_report_abuse_reports contains 0 rows 
+[INFO]-[2023/02/08 13:19:52] DB Copy: Creating table wpstg0_dokan_reverse_withdrawal
+[INFO]-[2023/02/08 13:19:52] DB Copy: Table dA9Yw3_dokan_reverse_withdrawal contains 0 rows 
+[INFO]-[2023/02/08 13:19:52] DB Copy: Creating table wpstg0_dokan_rma_conversations
+[INFO]-[2023/02/08 13:19:52] DB Copy: Table dA9Yw3_dokan_rma_conversations contains 0 rows 
+[INFO]-[2023/02/08 13:19:52] DB Copy: Creating table wpstg0_dokan_rma_request
+[INFO]-[2023/02/08 13:19:52] DB Copy: Table dA9Yw3_dokan_rma_request contains 0 rows 
+[INFO]-[2023/02/08 13:19:53] DB Copy: Creating table wpstg0_dokan_rma_request_product
+[INFO]-[2023/02/08 13:19:53] DB Copy: Table dA9Yw3_dokan_rma_request_product contains 0 rows 
+[INFO]-[2023/02/08 13:19:53] DB Copy: Creating table wpstg0_dokan_shipping_tracking
+[INFO]-[2023/02/08 13:19:53] DB Copy: Table dA9Yw3_dokan_shipping_tracking contains 0 rows 
+[INFO]-[2023/02/08 13:19:53] DB Copy: Creating table wpstg0_dokan_shipping_zone_locations
+[INFO]-[2023/02/08 13:19:53] DB Copy: Table dA9Yw3_dokan_shipping_zone_locations contains 0 rows 
+[INFO]-[2023/02/08 13:19:53] DB Copy: Creating table wpstg0_dokan_shipping_zone_methods
+[INFO]-[2023/02/08 13:19:53] DB Copy: Table dA9Yw3_dokan_shipping_zone_methods contains 0 rows 
+[INFO]-[2023/02/08 13:19:53] DB Copy: Creating table wpstg0_dokan_table_rate_shipping
+[INFO]-[2023/02/08 13:19:53] DB Copy: Table dA9Yw3_dokan_table_rate_shipping contains 0 rows 
+[INFO]-[2023/02/08 13:19:53] DB Copy: Creating table wpstg0_dokan_vendor_balance
+[INFO]-[2023/02/08 13:19:53] DB Copy: Table dA9Yw3_dokan_vendor_balance contains 4 rows 
+[INFO]-[2023/02/08 13:19:53] DB Copy: Copy data from dA9Yw3_dokan_vendor_balance to wpstg0_dokan_vendor_balance - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:54] DB Copy: Creating table wpstg0_dokan_withdraw
+[INFO]-[2023/02/08 13:19:54] DB Copy: Table dA9Yw3_dokan_withdraw contains 0 rows 
+[INFO]-[2023/02/08 13:19:54] DB Copy: Creating table wpstg0_links
+[INFO]-[2023/02/08 13:19:54] DB Copy: Table dA9Yw3_links contains 0 rows 
+[INFO]-[2023/02/08 13:19:54] DB Copy: Creating table wpstg0_litespeed_avatar
+[INFO]-[2023/02/08 13:19:54] DB Copy: Table dA9Yw3_litespeed_avatar contains 57 rows 
+[INFO]-[2023/02/08 13:19:54] DB Copy: Copy data from dA9Yw3_litespeed_avatar to wpstg0_litespeed_avatar - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:54] DB Copy: Creating table wpstg0_litespeed_img_optm
+[INFO]-[2023/02/08 13:19:54] DB Copy: Table dA9Yw3_litespeed_img_optm contains 1448 rows 
+[INFO]-[2023/02/08 13:19:54] DB Copy: Copy data from dA9Yw3_litespeed_img_optm to wpstg0_litespeed_img_optm - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:55] DB Copy: Creating table wpstg0_litespeed_img_optming
+[INFO]-[2023/02/08 13:19:55] DB Copy: Table dA9Yw3_litespeed_img_optming contains 0 rows 
+[INFO]-[2023/02/08 13:19:55] DB Copy: Creating table wpstg0_litespeed_url
+[INFO]-[2023/02/08 13:19:55] DB Copy: Table dA9Yw3_litespeed_url contains 526 rows 
+[INFO]-[2023/02/08 13:19:55] DB Copy: Copy data from dA9Yw3_litespeed_url to wpstg0_litespeed_url - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:55] DB Copy: Creating table wpstg0_litespeed_url_file
+[INFO]-[2023/02/08 13:19:55] DB Copy: Table dA9Yw3_litespeed_url_file contains 1025 rows 
+[INFO]-[2023/02/08 13:19:55] DB Copy: Copy data from dA9Yw3_litespeed_url_file to wpstg0_litespeed_url_file - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:55] DB Copy: Creating table wpstg0_options
+[INFO]-[2023/02/08 13:19:55] DB Copy: Table dA9Yw3_options contains 1538 rows 
+[INFO]-[2023/02/08 13:19:55] DB Copy: Copy data from dA9Yw3_options to wpstg0_options - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:55] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2023/02/08 13:19:55] DB Copy: Table dA9Yw3_postmeta contains 14302 rows 
+[INFO]-[2023/02/08 13:19:55] DB Copy: Copy data from dA9Yw3_postmeta to wpstg0_postmeta - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:55] DB Copy: Copy data from dA9Yw3_postmeta to wpstg0_postmeta - 10000 to 20000 records
+[INFO]-[2023/02/08 13:19:56] DB Copy: Creating table wpstg0_posts
+[INFO]-[2023/02/08 13:19:56] DB Copy: Table dA9Yw3_posts contains 943 rows 
+[INFO]-[2023/02/08 13:19:56] DB Copy: Copy data from dA9Yw3_posts to wpstg0_posts - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:56] DB Copy: Creating table wpstg0_rank_math_analytics_ga
+[INFO]-[2023/02/08 13:19:56] DB Copy: Table dA9Yw3_rank_math_analytics_ga contains 223 rows 
+[INFO]-[2023/02/08 13:19:56] DB Copy: Copy data from dA9Yw3_rank_math_analytics_ga to wpstg0_rank_math_analytics_ga - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:56] DB Copy: Creating table wpstg0_rank_math_analytics_gsc
+[INFO]-[2023/02/08 13:19:56] DB Copy: Table dA9Yw3_rank_math_analytics_gsc contains 1024 rows 
+[INFO]-[2023/02/08 13:19:56] DB Copy: Copy data from dA9Yw3_rank_math_analytics_gsc to wpstg0_rank_math_analytics_gsc - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:56] DB Copy: Creating table wpstg0_rank_math_analytics_inspections
+[INFO]-[2023/02/08 13:19:56] DB Copy: Table dA9Yw3_rank_math_analytics_inspections contains 240 rows 
+[INFO]-[2023/02/08 13:19:56] DB Copy: Copy data from dA9Yw3_rank_math_analytics_inspections to wpstg0_rank_math_analytics_inspections - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:56] DB Copy: Creating table wpstg0_rank_math_analytics_keyword_manager
+[INFO]-[2023/02/08 13:19:56] DB Copy: Table dA9Yw3_rank_math_analytics_keyword_manager contains 0 rows 
+[INFO]-[2023/02/08 13:19:56] DB Copy: Creating table wpstg0_rank_math_analytics_objects
+[INFO]-[2023/02/08 13:19:56] DB Copy: Table dA9Yw3_rank_math_analytics_objects contains 241 rows 
+[INFO]-[2023/02/08 13:19:56] DB Copy: Copy data from dA9Yw3_rank_math_analytics_objects to wpstg0_rank_math_analytics_objects - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:57] DB Copy: Creating table wpstg0_rank_math_internal_links
+[INFO]-[2023/02/08 13:19:57] DB Copy: Table dA9Yw3_rank_math_internal_links contains 406 rows 
+[INFO]-[2023/02/08 13:19:57] DB Copy: Copy data from dA9Yw3_rank_math_internal_links to wpstg0_rank_math_internal_links - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:57] DB Copy: Creating table wpstg0_rank_math_internal_meta
+[INFO]-[2023/02/08 13:19:57] DB Copy: Table dA9Yw3_rank_math_internal_meta contains 242 rows 
+[INFO]-[2023/02/08 13:19:57] DB Copy: Copy data from dA9Yw3_rank_math_internal_meta to wpstg0_rank_math_internal_meta - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:57] DB Copy: Creating table wpstg0_reviewx_criterias
+[INFO]-[2023/02/08 13:19:57] DB Copy: Table dA9Yw3_reviewx_criterias contains 0 rows 
+[INFO]-[2023/02/08 13:19:57] DB Copy: Creating table wpstg0_ta_link_clicks
+[INFO]-[2023/02/08 13:19:57] DB Copy: Table dA9Yw3_ta_link_clicks contains 0 rows 
+[INFO]-[2023/02/08 13:19:57] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2023/02/08 13:19:57] DB Copy: Table dA9Yw3_term_relationships contains 1590 rows 
+[INFO]-[2023/02/08 13:19:57] DB Copy: Copy data from dA9Yw3_term_relationships to wpstg0_term_relationships - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:57] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2023/02/08 13:19:57] DB Copy: Table dA9Yw3_term_taxonomy contains 90 rows 
+[INFO]-[2023/02/08 13:19:57] DB Copy: Copy data from dA9Yw3_term_taxonomy to wpstg0_term_taxonomy - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:57] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2023/02/08 13:19:57] DB Copy: Table dA9Yw3_termmeta contains 186 rows 
+[INFO]-[2023/02/08 13:19:57] DB Copy: Copy data from dA9Yw3_termmeta to wpstg0_termmeta - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:57] DB Copy: Creating table wpstg0_terms
+[INFO]-[2023/02/08 13:19:57] DB Copy: Table dA9Yw3_terms contains 90 rows 
+[INFO]-[2023/02/08 13:19:57] DB Copy: Copy data from dA9Yw3_terms to wpstg0_terms - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:57] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2023/02/08 13:19:57] DB Copy: Table dA9Yw3_usermeta contains 643 rows 
+[INFO]-[2023/02/08 13:19:57] DB Copy: Copy data from dA9Yw3_usermeta to wpstg0_usermeta - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:58] DB Copy: Creating table wpstg0_users
+[INFO]-[2023/02/08 13:19:58] DB Copy: Table dA9Yw3_users contains 13 rows 
+[INFO]-[2023/02/08 13:19:58] DB Copy: Copy data from dA9Yw3_users to wpstg0_users - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:58] DB Copy: Creating table wpstg0_vnaddress_districts
+[INFO]-[2023/02/08 13:19:58] DB Copy: Table dA9Yw3_vnaddress_districts contains 705 rows 
+[INFO]-[2023/02/08 13:19:58] DB Copy: Copy data from dA9Yw3_vnaddress_districts to wpstg0_vnaddress_districts - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:58] DB Copy: Creating table wpstg0_vnaddress_wards
+[INFO]-[2023/02/08 13:19:58] DB Copy: Table dA9Yw3_vnaddress_wards contains 10612 rows 
+[INFO]-[2023/02/08 13:19:58] DB Copy: Copy data from dA9Yw3_vnaddress_wards to wpstg0_vnaddress_wards - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:58] DB Copy: Copy data from dA9Yw3_vnaddress_wards to wpstg0_vnaddress_wards - 10000 to 20000 records
+[INFO]-[2023/02/08 13:19:58] DB Copy: Creating table wpstg0_wc_admin_note_actions
+[INFO]-[2023/02/08 13:19:58] DB Copy: Table dA9Yw3_wc_admin_note_actions contains 51 rows 
+[INFO]-[2023/02/08 13:19:58] DB Copy: Copy data from dA9Yw3_wc_admin_note_actions to wpstg0_wc_admin_note_actions - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:58] DB Copy: Creating table wpstg0_wc_admin_notes
+[INFO]-[2023/02/08 13:19:58] DB Copy: Table dA9Yw3_wc_admin_notes contains 46 rows 
+[INFO]-[2023/02/08 13:19:58] DB Copy: Copy data from dA9Yw3_wc_admin_notes to wpstg0_wc_admin_notes - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:58] DB Copy: Creating table wpstg0_wc_category_lookup
+[INFO]-[2023/02/08 13:19:58] DB Copy: Table dA9Yw3_wc_category_lookup contains 51 rows 
+[INFO]-[2023/02/08 13:19:58] DB Copy: Copy data from dA9Yw3_wc_category_lookup to wpstg0_wc_category_lookup - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:59] DB Copy: Creating table wpstg0_wc_comments_subscription
+[INFO]-[2023/02/08 13:19:59] DB Copy: Table dA9Yw3_wc_comments_subscription contains 0 rows 
+[INFO]-[2023/02/08 13:19:59] DB Copy: Creating table wpstg0_wc_customer_lookup
+[INFO]-[2023/02/08 13:19:59] DB Copy: Table dA9Yw3_wc_customer_lookup contains 6 rows 
+[INFO]-[2023/02/08 13:19:59] DB Copy: Copy data from dA9Yw3_wc_customer_lookup to wpstg0_wc_customer_lookup - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:59] DB Copy: Creating table wpstg0_wc_download_log
+[INFO]-[2023/02/08 13:19:59] DB Copy: Table dA9Yw3_wc_download_log contains 0 rows 
+[INFO]-[2023/02/08 13:19:59] DB Copy: Creating table wpstg0_wc_order_coupon_lookup
+[INFO]-[2023/02/08 13:19:59] DB Copy: Table dA9Yw3_wc_order_coupon_lookup contains 0 rows 
+[INFO]-[2023/02/08 13:19:59] DB Copy: Creating table wpstg0_wc_order_product_lookup
+[INFO]-[2023/02/08 13:19:59] DB Copy: Table dA9Yw3_wc_order_product_lookup contains 5 rows 
+[INFO]-[2023/02/08 13:19:59] DB Copy: Copy data from dA9Yw3_wc_order_product_lookup to wpstg0_wc_order_product_lookup - 0 to 10000 records
+[INFO]-[2023/02/08 13:19:59] DB Copy: Creating table wpstg0_wc_order_stats
+[INFO]-[2023/02/08 13:19:59] DB Copy: Table dA9Yw3_wc_order_stats contains 5 rows 
+[INFO]-[2023/02/08 13:19:59] DB Copy: Copy data from dA9Yw3_wc_order_stats to wpstg0_wc_order_stats - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:00] DB Copy: Creating table wpstg0_wc_order_tax_lookup
+[INFO]-[2023/02/08 13:20:00] DB Copy: Table dA9Yw3_wc_order_tax_lookup contains 0 rows 
+[INFO]-[2023/02/08 13:20:00] DB Copy: Creating table wpstg0_wc_phrases
+[INFO]-[2023/02/08 13:20:00] DB Copy: Table dA9Yw3_wc_phrases contains 0 rows 
+[INFO]-[2023/02/08 13:20:00] DB Copy: Creating table wpstg0_wc_product_attributes_lookup
+[INFO]-[2023/02/08 13:20:00] DB Copy: Table dA9Yw3_wc_product_attributes_lookup contains 0 rows 
+[INFO]-[2023/02/08 13:20:00] DB Copy: Creating table wpstg0_wc_product_download_directories
+[INFO]-[2023/02/08 13:20:00] DB Copy: Table dA9Yw3_wc_product_download_directories contains 2 rows 
+[INFO]-[2023/02/08 13:20:00] DB Copy: Copy data from dA9Yw3_wc_product_download_directories to wpstg0_wc_product_download_directories - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:00] DB Copy: Creating table wpstg0_wc_product_meta_lookup
+[INFO]-[2023/02/08 13:20:00] DB Copy: Table dA9Yw3_wc_product_meta_lookup contains 376 rows 
+[INFO]-[2023/02/08 13:20:00] DB Copy: Copy data from dA9Yw3_wc_product_meta_lookup to wpstg0_wc_product_meta_lookup - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:00] DB Copy: Creating table wpstg0_wc_rate_limits
+[INFO]-[2023/02/08 13:20:00] DB Copy: Table dA9Yw3_wc_rate_limits contains 0 rows 
+[INFO]-[2023/02/08 13:20:00] DB Copy: Creating table wpstg0_wc_reserved_stock
+[INFO]-[2023/02/08 13:20:00] DB Copy: Table dA9Yw3_wc_reserved_stock contains 0 rows 
+[INFO]-[2023/02/08 13:20:00] DB Copy: Creating table wpstg0_wc_tax_rate_classes
+[INFO]-[2023/02/08 13:20:00] DB Copy: Table dA9Yw3_wc_tax_rate_classes contains 2 rows 
+[INFO]-[2023/02/08 13:20:00] DB Copy: Copy data from dA9Yw3_wc_tax_rate_classes to wpstg0_wc_tax_rate_classes - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:01] DB Copy: Creating table wpstg0_wc_users_rated
+[INFO]-[2023/02/08 13:20:01] DB Copy: Table dA9Yw3_wc_users_rated contains 0 rows 
+[INFO]-[2023/02/08 13:20:01] DB Copy: Creating table wpstg0_wc_users_voted
+[INFO]-[2023/02/08 13:20:01] DB Copy: Table dA9Yw3_wc_users_voted contains 0 rows 
+[INFO]-[2023/02/08 13:20:01] DB Copy: Creating table wpstg0_wc_webhooks
+[INFO]-[2023/02/08 13:20:01] DB Copy: Table dA9Yw3_wc_webhooks contains 0 rows 
+[INFO]-[2023/02/08 13:20:01] DB Copy: Creating table wpstg0_wdr_order_discounts
+[INFO]-[2023/02/08 13:20:01] DB Copy: Table dA9Yw3_wdr_order_discounts contains 0 rows 
+[INFO]-[2023/02/08 13:20:01] DB Copy: Creating table wpstg0_wdr_rules
+[INFO]-[2023/02/08 13:20:01] DB Copy: Table dA9Yw3_wdr_rules contains 3 rows 
+[INFO]-[2023/02/08 13:20:01] DB Copy: Copy data from dA9Yw3_wdr_rules to wpstg0_wdr_rules - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:01] DB Copy: Creating table wpstg0_wemail_forms
+[INFO]-[2023/02/08 13:20:01] DB Copy: Table dA9Yw3_wemail_forms contains 0 rows 
+[INFO]-[2023/02/08 13:20:01] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2023/02/08 13:20:01] DB Copy: Table dA9Yw3_woocommerce_api_keys contains 0 rows 
+[INFO]-[2023/02/08 13:20:01] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2023/02/08 13:20:01] DB Copy: Table dA9Yw3_woocommerce_attribute_taxonomies contains 4 rows 
+[INFO]-[2023/02/08 13:20:01] DB Copy: Copy data from dA9Yw3_woocommerce_attribute_taxonomies to wpstg0_woocommerce_attribute_taxonomies - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:01] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2023/02/08 13:20:02] DB Copy: Table dA9Yw3_woocommerce_downloadable_product_permissions contains 0 rows 
+[INFO]-[2023/02/08 13:20:02] DB Copy: Creating table wpstg0_woocommerce_log
+[INFO]-[2023/02/08 13:20:02] DB Copy: Table dA9Yw3_woocommerce_log contains 0 rows 
+[INFO]-[2023/02/08 13:20:02] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2023/02/08 13:20:02] DB Copy: Table dA9Yw3_woocommerce_order_itemmeta contains 50 rows 
+[INFO]-[2023/02/08 13:20:02] DB Copy: Copy data from dA9Yw3_woocommerce_order_itemmeta to wpstg0_woocommerce_order_itemmeta - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:02] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2023/02/08 13:20:02] DB Copy: Table dA9Yw3_woocommerce_order_items contains 5 rows 
+[INFO]-[2023/02/08 13:20:02] DB Copy: Copy data from dA9Yw3_woocommerce_order_items to wpstg0_woocommerce_order_items - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:02] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2023/02/08 13:20:02] DB Copy: Table dA9Yw3_woocommerce_payment_tokenmeta contains 0 rows 
+[INFO]-[2023/02/08 13:20:02] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2023/02/08 13:20:02] DB Copy: Table dA9Yw3_woocommerce_payment_tokens contains 0 rows 
+[INFO]-[2023/02/08 13:20:02] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2023/02/08 13:20:02] DB Copy: Table dA9Yw3_woocommerce_sessions contains 12 rows 
+[INFO]-[2023/02/08 13:20:02] DB Copy: Copy data from dA9Yw3_woocommerce_sessions to wpstg0_woocommerce_sessions - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:02] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2023/02/08 13:20:02] DB Copy: Table dA9Yw3_woocommerce_shipping_zone_locations contains 0 rows 
+[INFO]-[2023/02/08 13:20:02] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2023/02/08 13:20:02] DB Copy: Table dA9Yw3_woocommerce_shipping_zone_methods contains 0 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2023/02/08 13:20:03] DB Copy: Table dA9Yw3_woocommerce_shipping_zones contains 0 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2023/02/08 13:20:03] DB Copy: Table dA9Yw3_woocommerce_tax_rate_locations contains 0 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2023/02/08 13:20:03] DB Copy: Table dA9Yw3_woocommerce_tax_rates contains 0 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Creating table wpstg0_wpam_events
+[INFO]-[2023/02/08 13:20:03] DB Copy: Table dA9Yw3_wpam_events contains 0 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Creating table wpstg0_wpam_messages
+[INFO]-[2023/02/08 13:20:03] DB Copy: Table dA9Yw3_wpam_messages contains 11 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Copy data from dA9Yw3_wpam_messages to wpstg0_wpam_messages - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:03] DB Copy: Creating table wpstg0_wpam_transactions
+[INFO]-[2023/02/08 13:20:03] DB Copy: Table dA9Yw3_wpam_transactions contains 0 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Creating table wpstg0_wpmailsmtp_debug_events
+[INFO]-[2023/02/08 13:20:03] DB Copy: Table dA9Yw3_wpmailsmtp_debug_events contains 5 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Copy data from dA9Yw3_wpmailsmtp_debug_events to wpstg0_wpmailsmtp_debug_events - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:03] DB Copy: Creating table wpstg0_wpmailsmtp_emails_log
+[INFO]-[2023/02/08 13:20:03] DB Copy: Table dA9Yw3_wpmailsmtp_emails_log contains 9 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Copy data from dA9Yw3_wpmailsmtp_emails_log to wpstg0_wpmailsmtp_emails_log - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:03] DB Copy: Creating table wpstg0_wpmailsmtp_tasks_meta
+[INFO]-[2023/02/08 13:20:03] DB Copy: Table dA9Yw3_wpmailsmtp_tasks_meta contains 54 rows 
+[INFO]-[2023/02/08 13:20:03] DB Copy: Copy data from dA9Yw3_wpmailsmtp_tasks_meta to wpstg0_wpmailsmtp_tasks_meta - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:04] DB Copy: Creating table wpstg0_wpstg_queue
+[INFO]-[2023/02/08 13:20:04] DB Copy: Table dA9Yw3_wpstg_queue contains 0 rows 
+[INFO]-[2023/02/08 13:20:04] DB Copy: Creating table wpstg0_wsal_metadata
+[INFO]-[2023/02/08 13:20:04] DB Copy: Table dA9Yw3_wsal_metadata contains 105 rows 
+[INFO]-[2023/02/08 13:20:04] DB Copy: Copy data from dA9Yw3_wsal_metadata to wpstg0_wsal_metadata - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:04] DB Copy: Creating table wpstg0_yith_wcaf_affiliates
+[INFO]-[2023/02/08 13:20:04] DB Copy: Table dA9Yw3_yith_wcaf_affiliates contains 8 rows 
+[INFO]-[2023/02/08 13:20:04] DB Copy: Copy data from dA9Yw3_yith_wcaf_affiliates to wpstg0_yith_wcaf_affiliates - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:04] DB Copy: Creating table wpstg0_yith_wcaf_clicks
+[INFO]-[2023/02/08 13:20:04] DB Copy: Table dA9Yw3_yith_wcaf_clicks contains 0 rows 
+[INFO]-[2023/02/08 13:20:04] DB Copy: Creating table wpstg0_yith_wcaf_commission_notes
+[INFO]-[2023/02/08 13:20:04] DB Copy: Table dA9Yw3_yith_wcaf_commission_notes contains 0 rows 
+[INFO]-[2023/02/08 13:20:04] DB Copy: Creating table wpstg0_yith_wcaf_commissions
+[INFO]-[2023/02/08 13:20:04] DB Copy: Table dA9Yw3_yith_wcaf_commissions contains 0 rows 
+[INFO]-[2023/02/08 13:20:04] DB Copy: Creating table wpstg0_yith_wcaf_payment_commission
+[INFO]-[2023/02/08 13:20:04] DB Copy: Table dA9Yw3_yith_wcaf_payment_commission contains 0 rows 
+[INFO]-[2023/02/08 13:20:04] DB Copy: Creating table wpstg0_yith_wcaf_payment_notes
+[INFO]-[2023/02/08 13:20:04] DB Copy: Table dA9Yw3_yith_wcaf_payment_notes contains 0 rows 
+[INFO]-[2023/02/08 13:20:05] DB Copy: Creating table wpstg0_yith_wcaf_payments
+[INFO]-[2023/02/08 13:20:05] DB Copy: Table dA9Yw3_yith_wcaf_payments contains 0 rows 
+[INFO]-[2023/02/08 13:20:05] DB Copy: Creating table wpstg0_yith_wcaf_rate_rulemeta
+[INFO]-[2023/02/08 13:20:05] DB Copy: Table dA9Yw3_yith_wcaf_rate_rulemeta contains 1 rows 
+[INFO]-[2023/02/08 13:20:05] DB Copy: Copy data from dA9Yw3_yith_wcaf_rate_rulemeta to wpstg0_yith_wcaf_rate_rulemeta - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:05] DB Copy: Creating table wpstg0_yith_wcaf_rate_rules
+[INFO]-[2023/02/08 13:20:05] DB Copy: Table dA9Yw3_yith_wcaf_rate_rules contains 1 rows 
+[INFO]-[2023/02/08 13:20:05] DB Copy: Copy data from dA9Yw3_yith_wcaf_rate_rules to wpstg0_yith_wcaf_rate_rules - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:05] DB Copy: Creating table wpstg0_yith_ywpar_points_log
+[INFO]-[2023/02/08 13:20:05] DB Copy: Table dA9Yw3_yith_ywpar_points_log contains 134 rows 
+[INFO]-[2023/02/08 13:20:05] DB Copy: Copy data from dA9Yw3_yith_ywpar_points_log to wpstg0_yith_ywpar_points_log - 0 to 10000 records
+[INFO]-[2023/02/08 13:20:05] DB Search & Replace:  Table wpstg0_actionscheduler_actions 0 to 20000 records
+[INFO]-[2023/02/08 13:20:06] DB Search & Replace:  Table wpstg0_actionscheduler_groups 0 to 20000 records
+[INFO]-[2023/02/08 13:20:07] DB Search & Replace:  Table wpstg0_actionscheduler_logs 0 to 20000 records
+[INFO]-[2023/02/08 13:20:08] DB Search & Replace:  Table wpstg0_commentmeta 0 to 20000 records
+[INFO]-[2023/02/08 13:20:08] DB Search & Replace:  Table wpstg0_comments 0 to 20000 records
+[INFO]-[2023/02/08 13:20:09] DB Search & Replace:  Table wpstg0_dokan_orders 0 to 20000 records
+[INFO]-[2023/02/08 13:20:10] DB Search & Replace:  Table wpstg0_dokan_vendor_balance 0 to 20000 records
+[INFO]-[2023/02/08 13:20:10] DB Search & Replace:  Table wpstg0_litespeed_avatar 0 to 20000 records
+[INFO]-[2023/02/08 13:20:11] DB Search & Replace:  Table wpstg0_litespeed_img_optm 0 to 20000 records
+[INFO]-[2023/02/08 13:20:11] DB Search & Replace:  Table wpstg0_litespeed_url 0 to 20000 records
+[INFO]-[2023/02/08 13:20:11] DB Search & Replace:  Table wpstg0_litespeed_url_file 0 to 20000 records
+[INFO]-[2023/02/08 13:20:11] DB Search & Replace:  Table wpstg0_options 0 to 20000 records
+[INFO]-[2023/02/08 13:20:11] DB Search & Replace:  Table wpstg0_postmeta 0 to 20000 records
+[INFO]-[2023/02/08 13:20:13] DB Search & Replace:  Table wpstg0_posts 0 to 20000 records
+[INFO]-[2023/02/08 13:20:13] DB Search & Replace:  Table wpstg0_rank_math_analytics_ga 0 to 20000 records
+[INFO]-[2023/02/08 13:20:14] DB Search & Replace:  Table wpstg0_rank_math_analytics_gsc 0 to 20000 records
+[INFO]-[2023/02/08 13:20:14] DB Search & Replace:  Table wpstg0_rank_math_analytics_inspections 0 to 20000 records
+[INFO]-[2023/02/08 13:20:14] DB Search & Replace:  Table wpstg0_rank_math_analytics_objects 0 to 20000 records
+[INFO]-[2023/02/08 13:20:14] DB Search & Replace:  Table wpstg0_rank_math_internal_links 0 to 20000 records
+[INFO]-[2023/02/08 13:20:14] DB Search & Replace:  Table wpstg0_rank_math_internal_meta 0 to 20000 records
+[INFO]-[2023/02/08 13:20:15] DB Search & Replace:  Table wpstg0_term_relationships 0 to 20000 records
+[INFO]-[2023/02/08 13:20:15] DB Search & Replace:  Table wpstg0_term_taxonomy 0 to 20000 records
+[INFO]-[2023/02/08 13:20:15] DB Search & Replace:  Table wpstg0_termmeta 0 to 20000 records
+[INFO]-[2023/02/08 13:20:15] DB Search & Replace:  Table wpstg0_terms 0 to 20000 records
+[INFO]-[2023/02/08 13:20:15] DB Search & Replace:  Table wpstg0_usermeta 0 to 20000 records
+[INFO]-[2023/02/08 13:20:15] DB Search & Replace:  Table wpstg0_users 0 to 20000 records
+[INFO]-[2023/02/08 13:20:15] DB Search & Replace:  Table wpstg0_vnaddress_districts 0 to 20000 records
+[INFO]-[2023/02/08 13:20:16] DB Search & Replace:  Table wpstg0_vnaddress_wards 0 to 20000 records
+[INFO]-[2023/02/08 13:20:16] DB Search & Replace:  Table wpstg0_wc_admin_note_actions 0 to 20000 records
+[INFO]-[2023/02/08 13:20:17] DB Search & Replace:  Table wpstg0_wc_admin_notes 0 to 20000 records
+[INFO]-[2023/02/08 13:20:17] DB Search & Replace:  Table wpstg0_wc_category_lookup 0 to 20000 records
+[INFO]-[2023/02/08 13:20:17] DB Search & Replace:  Table wpstg0_wc_customer_lookup 0 to 20000 records
+[INFO]-[2023/02/08 13:20:17] DB Search & Replace:  Table wpstg0_wc_order_product_lookup 0 to 20000 records
+[INFO]-[2023/02/08 13:20:17] DB Search & Replace:  Table wpstg0_wc_order_stats 0 to 20000 records
+[INFO]-[2023/02/08 13:20:18] DB Search & Replace:  Table wpstg0_wc_product_download_directories 0 to 20000 records
+[INFO]-[2023/02/08 13:20:18] DB Search & Replace:  Table wpstg0_wc_product_meta_lookup 0 to 20000 records
+[INFO]-[2023/02/08 13:20:19] DB Search & Replace:  Table wpstg0_wc_tax_rate_classes 0 to 20000 records
+[INFO]-[2023/02/08 13:20:19] DB Search & Replace:  Table wpstg0_wdr_rules 0 to 20000 records
+[INFO]-[2023/02/08 13:20:20] DB Search & Replace:  Table wpstg0_woocommerce_attribute_taxonomies 0 to 20000 records
+[INFO]-[2023/02/08 13:20:20] DB Search & Replace:  Table wpstg0_woocommerce_order_itemmeta 0 to 20000 records
+[INFO]-[2023/02/08 13:20:20] DB Search & Replace:  Table wpstg0_woocommerce_order_items 0 to 20000 records
+[INFO]-[2023/02/08 13:20:20] DB Search & Replace:  Table wpstg0_woocommerce_sessions 0 to 20000 records
+[INFO]-[2023/02/08 13:20:21] DB Search & Replace:  Table wpstg0_wpam_messages 0 to 20000 records
+[INFO]-[2023/02/08 13:20:21] DB Search & Replace:  Table wpstg0_wpmailsmtp_debug_events 0 to 20000 records
+[INFO]-[2023/02/08 13:20:21] DB Search & Replace:  Table wpstg0_wpmailsmtp_emails_log 0 to 20000 records
+[INFO]-[2023/02/08 13:20:21] DB Search & Replace:  Table wpstg0_wpmailsmtp_tasks_meta 0 to 20000 records
+[INFO]-[2023/02/08 13:20:22] DB Search & Replace:  Table wpstg0_wsal_metadata 0 to 20000 records
+[INFO]-[2023/02/08 13:20:22] DB Search & Replace:  Table wpstg0_yith_wcaf_affiliates 0 to 20000 records
+[INFO]-[2023/02/08 13:20:22] DB Search & Replace:  Table wpstg0_yith_wcaf_rate_rulemeta 0 to 20000 records
+[INFO]-[2023/02/08 13:20:22] DB Search & Replace:  Table wpstg0_yith_wcaf_rate_rules 0 to 20000 records
+[INFO]-[2023/02/08 13:20:23] DB Search & Replace:  Table wpstg0_yith_ywpar_points_log 0 to 20000 records
+[INFO]-[2023/02/08 13:20:23] Scanning / for its files
+[INFO]-[2023/02/08 13:20:23] Scanning wp-content/plugins/ and its sub-directories and files
+[INFO]-[2023/02/08 13:20:24] Scanning wp-content/mu-plugins/ and its sub-directories and files
+[INFO]-[2023/02/08 13:20:25] Scanning wp-content/themes/ and its sub-directories and files
+[INFO]-[2023/02/08 13:20:25] Scanning wp-content/uploads/ and its sub-directories and files
+[INFO]-[2023/02/08 13:20:25] Scanning wp-content/ for other directories and files
+[INFO]-[2023/02/08 13:20:25] Scanning wp-includes/ for its sub-directories and files
+[INFO]-[2023/02/08 13:20:26] Scanning wp-admin/ for its sub-directories and files
+[INFO]-[2023/02/08 13:20:26] Copying files...
+[INFO]-[2023/02/08 13:20:26] Total 50 files processed
+[INFO]-[2023/02/08 13:20:26] Total 100 files processed
+[INFO]-[2023/02/08 13:20:27] Total 150 files processed
+[INFO]-[2023/02/08 13:20:27] Total 200 files processed
+[INFO]-[2023/02/08 13:20:27] Total 250 files processed
+[INFO]-[2023/02/08 13:20:27] Total 300 files processed
+[INFO]-[2023/02/08 13:20:27] Total 350 files processed
+[INFO]-[2023/02/08 13:20:27] Total 400 files processed
+[INFO]-[2023/02/08 13:20:27] Total 450 files processed
+[INFO]-[2023/02/08 13:20:27] Total 500 files processed
+[INFO]-[2023/02/08 13:20:28] Total 550 files processed
+[INFO]-[2023/02/08 13:20:28] Total 600 files processed
+[INFO]-[2023/02/08 13:20:28] Total 650 files processed
+[INFO]-[2023/02/08 13:20:28] Total 700 files processed
+[INFO]-[2023/02/08 13:20:28] Total 750 files processed
+[INFO]-[2023/02/08 13:20:28] Total 800 files processed
+[INFO]-[2023/02/08 13:20:28] Total 850 files processed
+[INFO]-[2023/02/08 13:20:29] Total 900 files processed
+[INFO]-[2023/02/08 13:20:29] Total 950 files processed
+[INFO]-[2023/02/08 13:20:29] Total 1000 files processed
+[INFO]-[2023/02/08 13:20:29] Total 1050 files processed
+[INFO]-[2023/02/08 13:20:29] Total 1100 files processed
+[INFO]-[2023/02/08 13:20:29] Total 1150 files processed
+[INFO]-[2023/02/08 13:20:29] Total 1200 files processed
+[INFO]-[2023/02/08 13:20:29] Total 1250 files processed
+[INFO]-[2023/02/08 13:20:30] Total 1300 files processed
+[INFO]-[2023/02/08 13:20:30] Total 1350 files processed
+[INFO]-[2023/02/08 13:20:30] Total 1400 files processed
+[INFO]-[2023/02/08 13:20:31] Total 1450 files processed
+[INFO]-[2023/02/08 13:20:31] Total 1500 files processed
+[INFO]-[2023/02/08 13:20:31] Total 1550 files processed
+[INFO]-[2023/02/08 13:20:31] Total 1600 files processed
+[INFO]-[2023/02/08 13:20:31] Total 1650 files processed
+[INFO]-[2023/02/08 13:20:32] Total 1700 files processed
+[INFO]-[2023/02/08 13:20:32] Total 1750 files processed
+[INFO]-[2023/02/08 13:20:32] Total 1800 files processed
+[INFO]-[2023/02/08 13:20:32] Total 1850 files processed
+[INFO]-[2023/02/08 13:20:32] Total 1900 files processed
+[INFO]-[2023/02/08 13:20:32] Total 1950 files processed
+[INFO]-[2023/02/08 13:20:33] Total 2000 files processed
+[INFO]-[2023/02/08 13:20:33] Total 2050 files processed
+[INFO]-[2023/02/08 13:20:33] Total 2100 files processed
+[INFO]-[2023/02/08 13:20:33] Total 2150 files processed
+[INFO]-[2023/02/08 13:20:33] Total 2200 files processed
+[INFO]-[2023/02/08 13:20:33] Total 2250 files processed
+[INFO]-[2023/02/08 13:20:34] Total 2300 files processed
+[INFO]-[2023/02/08 13:20:34] Total 2350 files processed
+[INFO]-[2023/02/08 13:20:34] Total 2400 files processed
+[INFO]-[2023/02/08 13:20:34] Total 2450 files processed
+[INFO]-[2023/02/08 13:20:34] Total 2500 files processed
+[INFO]-[2023/02/08 13:20:34] Total 2550 files processed
+[INFO]-[2023/02/08 13:20:34] Total 2600 files processed
+[INFO]-[2023/02/08 13:20:34] Total 2650 files processed
+[INFO]-[2023/02/08 13:20:35] Total 2700 files processed
+[INFO]-[2023/02/08 13:20:35] Total 2750 files processed
+[INFO]-[2023/02/08 13:20:35] Total 2800 files processed
+[INFO]-[2023/02/08 13:20:35] Total 2850 files processed
+[INFO]-[2023/02/08 13:20:35] Total 2900 files processed
+[INFO]-[2023/02/08 13:20:35] Total 2950 files processed
+[INFO]-[2023/02/08 13:20:35] Total 3000 files processed
+[INFO]-[2023/02/08 13:20:36] Total 3050 files processed
+[INFO]-[2023/02/08 13:20:37] Total 3100 files processed
+[INFO]-[2023/02/08 13:20:37] Total 3150 files processed
+[INFO]-[2023/02/08 13:20:37] Total 3200 files processed
+[INFO]-[2023/02/08 13:20:37] Total 3250 files processed
+[INFO]-[2023/02/08 13:20:37] Total 3300 files processed
+[INFO]-[2023/02/08 13:20:37] Total 3350 files processed
+[INFO]-[2023/02/08 13:20:38] Total 3400 files processed
+[INFO]-[2023/02/08 13:20:38] Total 3450 files processed
+[INFO]-[2023/02/08 13:20:38] Total 3500 files processed
+[INFO]-[2023/02/08 13:20:38] Total 3550 files processed
+[INFO]-[2023/02/08 13:20:38] Total 3600 files processed
+[INFO]-[2023/02/08 13:20:38] Total 3650 files processed
+[INFO]-[2023/02/08 13:20:39] Total 3700 files processed
+[INFO]-[2023/02/08 13:20:39] Total 3750 files processed
+[INFO]-[2023/02/08 13:20:39] Total 3800 files processed
+[INFO]-[2023/02/08 13:20:39] Total 3850 files processed
+[INFO]-[2023/02/08 13:20:39] Total 3900 files processed
+[INFO]-[2023/02/08 13:20:39] Total 3950 files processed
+[INFO]-[2023/02/08 13:20:39] Total 4000 files processed
+[INFO]-[2023/02/08 13:20:40] Total 4050 files processed
+[INFO]-[2023/02/08 13:20:40] Total 4100 files processed
+[INFO]-[2023/02/08 13:20:40] Total 4150 files processed
+[INFO]-[2023/02/08 13:20:40] Total 4200 files processed
+[INFO]-[2023/02/08 13:20:40] Total 4250 files processed
+[INFO]-[2023/02/08 13:20:40] Total 4300 files processed
+[INFO]-[2023/02/08 13:20:40] Total 4350 files processed
+[INFO]-[2023/02/08 13:20:41] Total 4400 files processed
+[INFO]-[2023/02/08 13:20:41] Total 4450 files processed
+[INFO]-[2023/02/08 13:20:41] Total 4500 files processed
+[INFO]-[2023/02/08 13:20:41] Total 4550 files processed
+[INFO]-[2023/02/08 13:20:41] Total 4600 files processed
+[INFO]-[2023/02/08 13:20:41] Total 4650 files processed
+[INFO]-[2023/02/08 13:20:41] Total 4700 files processed
+[INFO]-[2023/02/08 13:20:42] Total 4750 files processed
+[INFO]-[2023/02/08 13:20:42] Total 4800 files processed
+[INFO]-[2023/02/08 13:20:42] Total 4850 files processed
+[INFO]-[2023/02/08 13:20:42] Total 4900 files processed
+[INFO]-[2023/02/08 13:20:42] Total 4950 files processed
+[INFO]-[2023/02/08 13:20:43] Total 5000 files processed
+[INFO]-[2023/02/08 13:20:43] Total 5050 files processed
+[INFO]-[2023/02/08 13:20:43] Total 5100 files processed
+[INFO]-[2023/02/08 13:20:43] Total 5150 files processed
+[INFO]-[2023/02/08 13:20:43] Total 5200 files processed
+[INFO]-[2023/02/08 13:20:44] Total 5250 files processed
+[INFO]-[2023/02/08 13:20:44] Total 5300 files processed
+[INFO]-[2023/02/08 13:20:44] Total 5350 files processed
+[INFO]-[2023/02/08 13:20:44] Total 5400 files processed
+[INFO]-[2023/02/08 13:20:44] Total 5450 files processed
+[INFO]-[2023/02/08 13:20:44] Total 5500 files processed
+[INFO]-[2023/02/08 13:20:45] Total 5550 files processed
+[INFO]-[2023/02/08 13:20:45] Total 5600 files processed
+[INFO]-[2023/02/08 13:20:45] Total 5650 files processed
+[INFO]-[2023/02/08 13:20:45] Total 5700 files processed
+[INFO]-[2023/02/08 13:20:45] Total 5750 files processed
+[INFO]-[2023/02/08 13:20:45] Total 5800 files processed
+[INFO]-[2023/02/08 13:20:45] Total 5850 files processed
+[INFO]-[2023/02/08 13:20:46] Total 5900 files processed
+[INFO]-[2023/02/08 13:20:46] Total 5950 files processed
+[INFO]-[2023/02/08 13:20:46] Total 6000 files processed
+[INFO]-[2023/02/08 13:20:47] Total 6050 files processed
+[INFO]-[2023/02/08 13:20:47] Total 6100 files processed
+[INFO]-[2023/02/08 13:20:47] Total 6150 files processed
+[INFO]-[2023/02/08 13:20:47] Total 6200 files processed
+[INFO]-[2023/02/08 13:20:47] Total 6250 files processed
+[INFO]-[2023/02/08 13:20:47] Total 6300 files processed
+[INFO]-[2023/02/08 13:20:47] Total 6350 files processed
+[INFO]-[2023/02/08 13:20:48] Total 6400 files processed
+[INFO]-[2023/02/08 13:20:48] Total 6450 files processed
+[INFO]-[2023/02/08 13:20:48] Total 6500 files processed
+[INFO]-[2023/02/08 13:20:48] Total 6550 files processed
+[INFO]-[2023/02/08 13:20:48] Total 6600 files processed
+[INFO]-[2023/02/08 13:20:48] Total 6650 files processed
+[INFO]-[2023/02/08 13:20:49] Total 6700 files processed
+[INFO]-[2023/02/08 13:20:49] Total 6750 files processed
+[INFO]-[2023/02/08 13:20:49] Total 6800 files processed
+[INFO]-[2023/02/08 13:20:49] Total 6850 files processed
+[INFO]-[2023/02/08 13:20:49] Total 6900 files processed
+[INFO]-[2023/02/08 13:20:50] Total 6950 files processed
+[INFO]-[2023/02/08 13:20:50] Total 7000 files processed
+[INFO]-[2023/02/08 13:20:50] Total 7050 files processed
+[INFO]-[2023/02/08 13:20:50] Total 7100 files processed
+[INFO]-[2023/02/08 13:20:50] Total 7150 files processed
+[INFO]-[2023/02/08 13:20:50] Total 7200 files processed
+[INFO]-[2023/02/08 13:20:50] Total 7250 files processed
+[INFO]-[2023/02/08 13:20:51] Total 7300 files processed
+[INFO]-[2023/02/08 13:20:51] Total 7350 files processed
+[INFO]-[2023/02/08 13:20:51] Total 7400 files processed
+[INFO]-[2023/02/08 13:20:51] Total 7450 files processed
+[INFO]-[2023/02/08 13:20:51] Total 7500 files processed
+[INFO]-[2023/02/08 13:20:51] Total 7550 files processed
+[INFO]-[2023/02/08 13:20:51] Total 7600 files processed
+[INFO]-[2023/02/08 13:20:52] Total 7650 files processed
+[INFO]-[2023/02/08 13:20:52] Total 7700 files processed
+[INFO]-[2023/02/08 13:20:52] Total 7750 files processed
+[INFO]-[2023/02/08 13:20:52] Total 7800 files processed
+[INFO]-[2023/02/08 13:20:52] Total 7850 files processed
+[INFO]-[2023/02/08 13:20:52] Total 7900 files processed
+[INFO]-[2023/02/08 13:20:52] Total 7950 files processed
+[INFO]-[2023/02/08 13:20:53] Total 8000 files processed
+[INFO]-[2023/02/08 13:20:53] Total 8050 files processed
+[INFO]-[2023/02/08 13:20:53] Total 8100 files processed
+[INFO]-[2023/02/08 13:20:53] Total 8150 files processed
+[INFO]-[2023/02/08 13:20:54] Total 8200 files processed
+[INFO]-[2023/02/08 13:20:54] Total 8250 files processed
+[INFO]-[2023/02/08 13:20:54] Total 8300 files processed
+[INFO]-[2023/02/08 13:20:54] Total 8350 files processed
+[INFO]-[2023/02/08 13:20:54] Total 8400 files processed
+[INFO]-[2023/02/08 13:20:54] Total 8450 files processed
+[INFO]-[2023/02/08 13:20:54] Total 8500 files processed
+[INFO]-[2023/02/08 13:20:54] Total 8550 files processed
+[INFO]-[2023/02/08 13:20:55] Total 8600 files processed
+[INFO]-[2023/02/08 13:20:56] Total 8650 files processed
+[INFO]-[2023/02/08 13:20:56] Total 8700 files processed
+[INFO]-[2023/02/08 13:20:56] Total 8750 files processed
+[INFO]-[2023/02/08 13:20:57] Total 8800 files processed
+[INFO]-[2023/02/08 13:20:57] Total 8850 files processed
+[INFO]-[2023/02/08 13:20:57] Total 8900 files processed
+[INFO]-[2023/02/08 13:20:57] Total 8950 files processed
+[INFO]-[2023/02/08 13:20:57] Total 9000 files processed
+[INFO]-[2023/02/08 13:20:57] Total 9050 files processed
+[INFO]-[2023/02/08 13:20:58] Total 9100 files processed
+[INFO]-[2023/02/08 13:20:58] Total 9150 files processed
+[INFO]-[2023/02/08 13:20:58] Total 9200 files processed
+[INFO]-[2023/02/08 13:20:58] Total 9250 files processed
+[INFO]-[2023/02/08 13:20:58] Total 9300 files processed
+[INFO]-[2023/02/08 13:20:58] Total 9350 files processed
+[INFO]-[2023/02/08 13:20:58] Total 9400 files processed
+[INFO]-[2023/02/08 13:20:59] Total 9450 files processed
+[INFO]-[2023/02/08 13:20:59] Total 9500 files processed
+[INFO]-[2023/02/08 13:20:59] Total 9550 files processed
+[INFO]-[2023/02/08 13:20:59] Total 9600 files processed
+[INFO]-[2023/02/08 13:20:59] Total 9650 files processed
+[INFO]-[2023/02/08 13:20:59] Total 9700 files processed
+[INFO]-[2023/02/08 13:20:59] Total 9750 files processed
+[INFO]-[2023/02/08 13:21:00] Total 9800 files processed
+[INFO]-[2023/02/08 13:21:00] Total 9850 files processed
+[INFO]-[2023/02/08 13:21:00] Total 9900 files processed
+[INFO]-[2023/02/08 13:21:00] Total 9950 files processed
+[INFO]-[2023/02/08 13:21:00] Total 10000 files processed
+[INFO]-[2023/02/08 13:21:00] Total 10050 files processed
+[INFO]-[2023/02/08 13:21:00] Total 10100 files processed
+[INFO]-[2023/02/08 13:21:01] Total 10150 files processed
+[INFO]-[2023/02/08 13:21:01] Total 10200 files processed
+[INFO]-[2023/02/08 13:21:01] Total 10250 files processed
+[INFO]-[2023/02/08 13:21:01] Total 10300 files processed
+[INFO]-[2023/02/08 13:21:02] Total 10350 files processed
+[INFO]-[2023/02/08 13:21:02] Total 10400 files processed
+[INFO]-[2023/02/08 13:21:02] Total 10450 files processed
+[INFO]-[2023/02/08 13:21:02] Total 10500 files processed
+[INFO]-[2023/02/08 13:21:02] Total 10550 files processed
+[INFO]-[2023/02/08 13:21:02] Total 10600 files processed
+[INFO]-[2023/02/08 13:21:02] Total 10650 files processed
+[INFO]-[2023/02/08 13:21:03] Total 10700 files processed
+[INFO]-[2023/02/08 13:21:03] Total 10750 files processed
+[INFO]-[2023/02/08 13:21:03] Total 10800 files processed
+[INFO]-[2023/02/08 13:21:03] Total 10850 files processed
+[INFO]-[2023/02/08 13:21:03] Total 10900 files processed
+[INFO]-[2023/02/08 13:21:03] Total 10950 files processed
+[INFO]-[2023/02/08 13:21:03] Total 11000 files processed
+[INFO]-[2023/02/08 13:21:03] Total 11050 files processed
+[INFO]-[2023/02/08 13:21:04] Total 11100 files processed
+[INFO]-[2023/02/08 13:21:04] Total 11150 files processed
+[INFO]-[2023/02/08 13:21:04] Total 11200 files processed
+[INFO]-[2023/02/08 13:21:04] Total 11250 files processed
+[INFO]-[2023/02/08 13:21:04] Total 11300 files processed
+[INFO]-[2023/02/08 13:21:04] Total 11350 files processed
+[INFO]-[2023/02/08 13:21:05] Total 11400 files processed
+[INFO]-[2023/02/08 13:21:05] Total 11450 files processed
+[INFO]-[2023/02/08 13:21:05] Total 11500 files processed
+[INFO]-[2023/02/08 13:21:05] Total 11550 files processed
+[INFO]-[2023/02/08 13:21:05] Total 11600 files processed
+[INFO]-[2023/02/08 13:21:05] Total 11650 files processed
+[INFO]-[2023/02/08 13:21:06] Total 11700 files processed
+[INFO]-[2023/02/08 13:21:06] Total 11750 files processed
+[INFO]-[2023/02/08 13:21:06] Total 11800 files processed
+[INFO]-[2023/02/08 13:21:07] Total 11850 files processed
+[INFO]-[2023/02/08 13:21:07] Total 11900 files processed
+[INFO]-[2023/02/08 13:21:07] Total 11950 files processed
+[INFO]-[2023/02/08 13:21:08] Total 12000 files processed
+[INFO]-[2023/02/08 13:21:08] Total 12050 files processed
+[INFO]-[2023/02/08 13:21:08] Total 12100 files processed
+[INFO]-[2023/02/08 13:21:08] Total 12150 files processed
+[INFO]-[2023/02/08 13:21:09] Total 12200 files processed
+[INFO]-[2023/02/08 13:21:09] Total 12250 files processed
+[INFO]-[2023/02/08 13:21:09] Total 12300 files processed
+[INFO]-[2023/02/08 13:21:09] Total 12350 files processed
+[INFO]-[2023/02/08 13:21:09] Total 12400 files processed
+[INFO]-[2023/02/08 13:21:09] Total 12450 files processed
+[INFO]-[2023/02/08 13:21:10] Total 12500 files processed
+[INFO]-[2023/02/08 13:21:10] Total 12550 files processed
+[INFO]-[2023/02/08 13:21:10] Total 12600 files processed
+[INFO]-[2023/02/08 13:21:10] Total 12650 files processed
+[INFO]-[2023/02/08 13:21:10] Total 12700 files processed
+[INFO]-[2023/02/08 13:21:10] Total 12750 files processed
+[INFO]-[2023/02/08 13:21:11] Total 12800 files processed
+[INFO]-[2023/02/08 13:21:11] Total 12850 files processed
+[INFO]-[2023/02/08 13:21:11] Total 12900 files processed
+[INFO]-[2023/02/08 13:21:11] Total 12950 files processed
+[INFO]-[2023/02/08 13:21:11] Total 13000 files processed
+[INFO]-[2023/02/08 13:21:11] Total 13050 files processed
+[INFO]-[2023/02/08 13:21:11] Total 13100 files processed
+[INFO]-[2023/02/08 13:21:12] Total 13150 files processed
+[INFO]-[2023/02/08 13:21:12] Total 13200 files processed
+[INFO]-[2023/02/08 13:21:12] Total 13250 files processed
+[INFO]-[2023/02/08 13:21:12] Total 13300 files processed
+[INFO]-[2023/02/08 13:21:12] Total 13350 files processed
+[INFO]-[2023/02/08 13:21:12] Total 13400 files processed
+[INFO]-[2023/02/08 13:21:12] Total 13450 files processed
+[INFO]-[2023/02/08 13:21:13] Total 13500 files processed
+[INFO]-[2023/02/08 13:21:13] Total 13550 files processed
+[INFO]-[2023/02/08 13:21:13] Total 13600 files processed
+[INFO]-[2023/02/08 13:21:14] Total 13650 files processed
+[INFO]-[2023/02/08 13:21:14] Total 13700 files processed
+[INFO]-[2023/02/08 13:21:14] Total 13750 files processed
+[INFO]-[2023/02/08 13:21:14] Total 13800 files processed
+[INFO]-[2023/02/08 13:21:15] Total 13850 files processed
+[INFO]-[2023/02/08 13:21:15] Total 13900 files processed
+[INFO]-[2023/02/08 13:21:15] Total 13950 files processed
+[INFO]-[2023/02/08 13:21:15] Total 14000 files processed
+[INFO]-[2023/02/08 13:21:15] Total 14050 files processed
+[INFO]-[2023/02/08 13:21:15] Total 14100 files processed
+[INFO]-[2023/02/08 13:21:15] Total 14150 files processed
+[INFO]-[2023/02/08 13:21:16] Total 14200 files processed
+[INFO]-[2023/02/08 13:21:16] Total 14250 files processed
+[INFO]-[2023/02/08 13:21:17] Total 14300 files processed
+[INFO]-[2023/02/08 13:21:17] Total 14350 files processed
+[INFO]-[2023/02/08 13:21:17] Total 14400 files processed
+[INFO]-[2023/02/08 13:21:17] Total 14450 files processed
+[INFO]-[2023/02/08 13:21:17] Total 14500 files processed
+[INFO]-[2023/02/08 13:21:17] Total 14550 files processed
+[INFO]-[2023/02/08 13:21:17] Total 14600 files processed
+[INFO]-[2023/02/08 13:21:17] Total 14650 files processed
+[INFO]-[2023/02/08 13:21:18] Total 14700 files processed
+[INFO]-[2023/02/08 13:21:18] Total 14750 files processed
+[INFO]-[2023/02/08 13:21:18] Total 14800 files processed
+[INFO]-[2023/02/08 13:21:18] Total 14850 files processed
+[INFO]-[2023/02/08 13:21:18] Total 14900 files processed
+[INFO]-[2023/02/08 13:21:18] Total 14950 files processed
+[INFO]-[2023/02/08 13:21:18] Total 15000 files processed
+[INFO]-[2023/02/08 13:21:19] Total 15050 files processed
+[INFO]-[2023/02/08 13:21:19] Total 15100 files processed
+[INFO]-[2023/02/08 13:21:19] Total 15150 files processed
+[INFO]-[2023/02/08 13:21:19] Total 15200 files processed
+[INFO]-[2023/02/08 13:21:20] Total 15250 files processed
+[INFO]-[2023/02/08 13:21:20] Total 15300 files processed
+[INFO]-[2023/02/08 13:21:20] Total 15350 files processed
+[INFO]-[2023/02/08 13:21:20] Total 15400 files processed
+[INFO]-[2023/02/08 13:21:21] Total 15450 files processed
+[INFO]-[2023/02/08 13:21:21] Total 15500 files processed
+[INFO]-[2023/02/08 13:21:21] Total 15550 files processed
+[INFO]-[2023/02/08 13:21:21] Total 15600 files processed
+[INFO]-[2023/02/08 13:21:21] Total 15650 files processed
+[INFO]-[2023/02/08 13:21:21] Total 15700 files processed
+[INFO]-[2023/02/08 13:21:22] Total 15750 files processed
+[INFO]-[2023/02/08 13:21:22] Total 15800 files processed
+[INFO]-[2023/02/08 13:21:22] Total 15850 files processed
+[INFO]-[2023/02/08 13:21:22] Total 15900 files processed
+[INFO]-[2023/02/08 13:21:22] Total 15950 files processed
+[INFO]-[2023/02/08 13:21:22] Total 16000 files processed
+[INFO]-[2023/02/08 13:21:22] Total 16050 files processed
+[INFO]-[2023/02/08 13:21:23] Total 16100 files processed
+[INFO]-[2023/02/08 13:21:23] Total 16150 files processed
+[INFO]-[2023/02/08 13:21:23] Total 16200 files processed
+[INFO]-[2023/02/08 13:21:23] Total 16250 files processed
+[INFO]-[2023/02/08 13:21:23] Total 16300 files processed
+[INFO]-[2023/02/08 13:21:23] Total 16350 files processed
+[INFO]-[2023/02/08 13:21:23] Total 16400 files processed
+[INFO]-[2023/02/08 13:21:24] Total 16450 files processed
+[INFO]-[2023/02/08 13:21:24] Total 16500 files processed
+[INFO]-[2023/02/08 13:21:24] Total 16550 files processed
+[INFO]-[2023/02/08 13:21:24] Total 16600 files processed
+[INFO]-[2023/02/08 13:21:24] Total 16650 files processed
+[INFO]-[2023/02/08 13:21:24] Total 16700 files processed
+[INFO]-[2023/02/08 13:21:24] Total 16750 files processed
+[INFO]-[2023/02/08 13:21:25] Total 16800 files processed
+[INFO]-[2023/02/08 13:21:25] Total 16850 files processed
+[INFO]-[2023/02/08 13:21:25] Total 16900 files processed
+[INFO]-[2023/02/08 13:21:25] Total 16950 files processed
+[INFO]-[2023/02/08 13:21:25] Total 17000 files processed
+[INFO]-[2023/02/08 13:21:27] Total 17050 files processed
+[INFO]-[2023/02/08 13:21:27] Total 17100 files processed
+[INFO]-[2023/02/08 13:21:27] Total 17150 files processed
+[INFO]-[2023/02/08 13:21:27] Total 17200 files processed
+[INFO]-[2023/02/08 13:21:27] Total 17250 files processed
+[INFO]-[2023/02/08 13:21:27] Total 17300 files processed
+[INFO]-[2023/02/08 13:21:28] Total 17350 files processed
+[INFO]-[2023/02/08 13:21:28] Total 17400 files processed
+[INFO]-[2023/02/08 13:21:28] Total 17450 files processed
+[INFO]-[2023/02/08 13:21:28] Total 17500 files processed
+[INFO]-[2023/02/08 13:21:28] Total 17550 files processed
+[INFO]-[2023/02/08 13:21:28] Total 17600 files processed
+[INFO]-[2023/02/08 13:21:29] Total 17650 files processed
+[INFO]-[2023/02/08 13:21:29] Total 17700 files processed
+[INFO]-[2023/02/08 13:21:29] Total 17750 files processed
+[INFO]-[2023/02/08 13:21:29] Total 17800 files processed
+[INFO]-[2023/02/08 13:21:29] Total 17850 files processed
+[INFO]-[2023/02/08 13:21:29] Total 17900 files processed
+[INFO]-[2023/02/08 13:21:29] Total 17950 files processed
+[INFO]-[2023/02/08 13:21:30] Total 18000 files processed
+[INFO]-[2023/02/08 13:21:30] Total 18050 files processed
+[INFO]-[2023/02/08 13:21:30] Total 18100 files processed
+[INFO]-[2023/02/08 13:21:30] Total 18150 files processed
+[INFO]-[2023/02/08 13:21:30] Total 18200 files processed
+[INFO]-[2023/02/08 13:21:30] Total 18250 files processed
+[INFO]-[2023/02/08 13:21:30] Total 18300 files processed
+[INFO]-[2023/02/08 13:21:31] Total 18350 files processed
+[INFO]-[2023/02/08 13:21:31] Total 18400 files processed
+[INFO]-[2023/02/08 13:21:31] Total 18450 files processed
+[INFO]-[2023/02/08 13:21:31] Total 18500 files processed
+[INFO]-[2023/02/08 13:21:31] Total 18550 files processed
+[INFO]-[2023/02/08 13:21:32] Total 18600 files processed
+[INFO]-[2023/02/08 13:21:32] Total 18650 files processed
+[INFO]-[2023/02/08 13:21:32] Total 18700 files processed
+[INFO]-[2023/02/08 13:21:33] Total 18750 files processed
+[INFO]-[2023/02/08 13:21:33] Total 18800 files processed
+[INFO]-[2023/02/08 13:21:33] Total 18850 files processed
+[INFO]-[2023/02/08 13:21:33] Total 18900 files processed
+[INFO]-[2023/02/08 13:21:33] Total 18950 files processed
+[INFO]-[2023/02/08 13:21:33] Total 19000 files processed
+[INFO]-[2023/02/08 13:21:33] Total 19050 files processed
+[INFO]-[2023/02/08 13:21:34] Total 19100 files processed
+[INFO]-[2023/02/08 13:21:34] Total 19150 files processed
+[INFO]-[2023/02/08 13:21:34] Total 19200 files processed
+[INFO]-[2023/02/08 13:21:34] Total 19250 files processed
+[INFO]-[2023/02/08 13:21:34] Total 19300 files processed
+[INFO]-[2023/02/08 13:21:34] Total 19350 files processed
+[INFO]-[2023/02/08 13:21:35] Total 19400 files processed
+[INFO]-[2023/02/08 13:21:35] Total 19450 files processed
+[INFO]-[2023/02/08 13:21:35] Total 19500 files processed
+[INFO]-[2023/02/08 13:21:35] Total 19550 files processed
+[INFO]-[2023/02/08 13:21:35] Total 19600 files processed
+[INFO]-[2023/02/08 13:21:35] Total 19650 files processed
+[INFO]-[2023/02/08 13:21:36] Total 19700 files processed
+[INFO]-[2023/02/08 13:21:36] Total 19750 files processed
+[INFO]-[2023/02/08 13:21:37] Total 19800 files processed
+[INFO]-[2023/02/08 13:21:37] Total 19850 files processed
+[INFO]-[2023/02/08 13:21:37] Total 19900 files processed
+[INFO]-[2023/02/08 13:21:37] Total 19950 files processed
+[INFO]-[2023/02/08 13:21:37] Total 20000 files processed
+[INFO]-[2023/02/08 13:21:38] Total 20050 files processed
+[INFO]-[2023/02/08 13:21:38] Total 20100 files processed
+[INFO]-[2023/02/08 13:21:38] Total 20150 files processed
+[INFO]-[2023/02/08 13:21:38] Total 20200 files processed
+[INFO]-[2023/02/08 13:21:38] Total 20250 files processed
+[INFO]-[2023/02/08 13:21:39] Total 20300 files processed
+[INFO]-[2023/02/08 13:21:39] Total 20350 files processed
+[INFO]-[2023/02/08 13:21:39] Total 20400 files processed
+[INFO]-[2023/02/08 13:21:39] Total 20450 files processed
+[INFO]-[2023/02/08 13:21:39] Total 20500 files processed
+[INFO]-[2023/02/08 13:21:39] Total 20550 files processed
+[INFO]-[2023/02/08 13:21:40] Total 20600 files processed
+[INFO]-[2023/02/08 13:21:40] Total 20650 files processed
+[INFO]-[2023/02/08 13:21:40] Total 20700 files processed
+[INFO]-[2023/02/08 13:21:40] Total 20750 files processed
+[INFO]-[2023/02/08 13:21:40] Total 20800 files processed
+[INFO]-[2023/02/08 13:21:40] Total 20850 files processed
+[INFO]-[2023/02/08 13:21:41] Total 20900 files processed
+[INFO]-[2023/02/08 13:21:41] Total 20950 files processed
+[INFO]-[2023/02/08 13:21:41] Total 21000 files processed
+[INFO]-[2023/02/08 13:21:41] Total 21050 files processed
+[INFO]-[2023/02/08 13:21:41] Total 21100 files processed
+[INFO]-[2023/02/08 13:21:41] Total 21150 files processed
+[INFO]-[2023/02/08 13:21:42] Total 21200 files processed
+[INFO]-[2023/02/08 13:21:42] Total 21250 files processed
+[INFO]-[2023/02/08 13:21:42] Total 21300 files processed
+[INFO]-[2023/02/08 13:21:42] Total 21350 files processed
+[INFO]-[2023/02/08 13:21:42] Total 21400 files processed
+[INFO]-[2023/02/08 13:21:42] Total 21450 files processed
+[INFO]-[2023/02/08 13:21:43] Total 21500 files processed
+[INFO]-[2023/02/08 13:21:43] Total 21550 files processed
+[INFO]-[2023/02/08 13:21:43] Total 21600 files processed
+[INFO]-[2023/02/08 13:21:43] Total 21650 files processed
+[INFO]-[2023/02/08 13:21:43] Total 21700 files processed
+[INFO]-[2023/02/08 13:21:43] Total 21750 files processed
+[INFO]-[2023/02/08 13:21:43] Total 21800 files processed
+[INFO]-[2023/02/08 13:21:44] Total 21850 files processed
+[INFO]-[2023/02/08 13:21:44] Total 21900 files processed
+[INFO]-[2023/02/08 13:21:44] Total 21950 files processed
+[INFO]-[2023/02/08 13:21:45] Total 22000 files processed
+[INFO]-[2023/02/08 13:21:45] Total 22050 files processed
+[INFO]-[2023/02/08 13:21:45] Total 22100 files processed
+[INFO]-[2023/02/08 13:21:45] Total 22150 files processed
+[INFO]-[2023/02/08 13:21:46] Total 22200 files processed
+[INFO]-[2023/02/08 13:21:46] Total 22250 files processed
+[INFO]-[2023/02/08 13:21:46] Total 22300 files processed
+[INFO]-[2023/02/08 13:21:46] Total 22350 files processed
+[INFO]-[2023/02/08 13:21:46] Total 22400 files processed
+[INFO]-[2023/02/08 13:21:46] Total 22450 files processed
+[INFO]-[2023/02/08 13:21:46] Total 22500 files processed
+[INFO]-[2023/02/08 13:21:47] Total 22550 files processed
+[INFO]-[2023/02/08 13:21:47] Total 22600 files processed
+[INFO]-[2023/02/08 13:21:47] Total 22650 files processed
+[INFO]-[2023/02/08 13:21:47] Total 22700 files processed
+[INFO]-[2023/02/08 13:21:47] Total 22750 files processed
+[INFO]-[2023/02/08 13:21:47] Total 22800 files processed
+[INFO]-[2023/02/08 13:21:48] Total 22850 files processed
+[INFO]-[2023/02/08 13:21:48] Total 22900 files processed
+[INFO]-[2023/02/08 13:21:48] Total 22950 files processed
+[INFO]-[2023/02/08 13:21:48] Total 23000 files processed
+[INFO]-[2023/02/08 13:21:48] Total 23050 files processed
+[INFO]-[2023/02/08 13:21:48] Total 23100 files processed
+[INFO]-[2023/02/08 13:21:49] Total 23150 files processed
+[INFO]-[2023/02/08 13:21:49] Total 23200 files processed
+[INFO]-[2023/02/08 13:21:49] Total 23250 files processed
+[INFO]-[2023/02/08 13:21:49] Total 23300 files processed
+[INFO]-[2023/02/08 13:21:49] Total 23350 files processed
+[INFO]-[2023/02/08 13:21:49] Total 23400 files processed
+[INFO]-[2023/02/08 13:21:50] Total 23450 files processed
+[INFO]-[2023/02/08 13:21:50] Total 23500 files processed
+[INFO]-[2023/02/08 13:21:51] Total 23550 files processed
+[INFO]-[2023/02/08 13:21:51] Total 23600 files processed
+[INFO]-[2023/02/08 13:21:51] Total 23650 files processed
+[INFO]-[2023/02/08 13:21:51] Total 23700 files processed
+[INFO]-[2023/02/08 13:21:51] Total 23750 files processed
+[INFO]-[2023/02/08 13:21:52] Total 23800 files processed
+[INFO]-[2023/02/08 13:21:52] Total 23850 files processed
+[INFO]-[2023/02/08 13:21:52] Total 23900 files processed
+[INFO]-[2023/02/08 13:21:52] Total 23950 files processed
+[INFO]-[2023/02/08 13:21:52] Total 24000 files processed
+[INFO]-[2023/02/08 13:21:53] Total 24050 files processed
+[INFO]-[2023/02/08 13:21:53] Total 24100 files processed
+[INFO]-[2023/02/08 13:21:53] Total 24150 files processed
+[INFO]-[2023/02/08 13:21:53] Total 24200 files processed
+[INFO]-[2023/02/08 13:21:53] Total 24250 files processed
+[INFO]-[2023/02/08 13:21:53] Total 24300 files processed
+[INFO]-[2023/02/08 13:21:54] Total 24350 files processed
+[INFO]-[2023/02/08 13:21:54] Total 24400 files processed
+[INFO]-[2023/02/08 13:21:54] Total 24450 files processed
+[INFO]-[2023/02/08 13:21:54] Total 24500 files processed
+[INFO]-[2023/02/08 13:21:54] Total 24550 files processed
+[INFO]-[2023/02/08 13:21:54] Total 24600 files processed
+[INFO]-[2023/02/08 13:21:55] Total 24650 files processed
+[INFO]-[2023/02/08 13:21:55] Total 24700 files processed
+[INFO]-[2023/02/08 13:21:55] Total 24750 files processed
+[INFO]-[2023/02/08 13:21:55] Total 24800 files processed
+[INFO]-[2023/02/08 13:21:55] Total 24850 files processed
+[INFO]-[2023/02/08 13:21:55] Total 24900 files processed
+[INFO]-[2023/02/08 13:21:56] Total 24950 files processed
+[INFO]-[2023/02/08 13:21:56] Total 25000 files processed
+[INFO]-[2023/02/08 13:21:56] Total 25050 files processed
+[INFO]-[2023/02/08 13:21:57] Total 25100 files processed
+[INFO]-[2023/02/08 13:21:57] Total 25150 files processed
+[INFO]-[2023/02/08 13:21:57] Total 25200 files processed
+[INFO]-[2023/02/08 13:21:57] Total 25250 files processed
+[INFO]-[2023/02/08 13:21:57] Total 25300 files processed
+[INFO]-[2023/02/08 13:21:57] Total 25350 files processed
+[INFO]-[2023/02/08 13:21:58] Total 25400 files processed
+[INFO]-[2023/02/08 13:21:58] Total 25450 files processed
+[INFO]-[2023/02/08 13:21:58] Total 25500 files processed
+[INFO]-[2023/02/08 13:21:58] Total 25550 files processed
+[INFO]-[2023/02/08 13:21:58] Total 25600 files processed
+[INFO]-[2023/02/08 13:21:58] Total 25650 files processed
+[INFO]-[2023/02/08 13:21:59] Total 25700 files processed
+[INFO]-[2023/02/08 13:21:59] Total 25750 files processed
+[INFO]-[2023/02/08 13:21:59] Total 25800 files processed
+[INFO]-[2023/02/08 13:21:59] Total 25850 files processed
+[INFO]-[2023/02/08 13:21:59] Total 25900 files processed
+[INFO]-[2023/02/08 13:21:59] Total 25950 files processed
+[INFO]-[2023/02/08 13:22:00] Total 26000 files processed
+[INFO]-[2023/02/08 13:22:00] Total 26050 files processed
+[INFO]-[2023/02/08 13:22:00] Total 26100 files processed
+[INFO]-[2023/02/08 13:22:00] Total 26150 files processed
+[INFO]-[2023/02/08 13:22:00] Total 26200 files processed
+[INFO]-[2023/02/08 13:22:00] Total 26250 files processed
+[INFO]-[2023/02/08 13:22:00] Total 26300 files processed
+[INFO]-[2023/02/08 13:22:01] Total 26350 files processed
+[INFO]-[2023/02/08 13:22:01] Total 26400 files processed
+[INFO]-[2023/02/08 13:22:01] Total 26450 files processed
+[INFO]-[2023/02/08 13:22:01] Total 26500 files processed
+[INFO]-[2023/02/08 13:22:01] Total 26550 files processed
+[INFO]-[2023/02/08 13:22:01] Total 26600 files processed
+[INFO]-[2023/02/08 13:22:01] Total 26650 files processed
+[INFO]-[2023/02/08 13:22:02] Total 26700 files processed
+[INFO]-[2023/02/08 13:22:02] Total 26750 files processed
+[INFO]-[2023/02/08 13:22:02] Total 26800 files processed
+[INFO]-[2023/02/08 13:22:02] Total 26850 files processed
+[INFO]-[2023/02/08 13:22:03] Total 26900 files processed
+[INFO]-[2023/02/08 13:22:03] Total 26950 files processed
+[INFO]-[2023/02/08 13:22:03] Total 27000 files processed
+[INFO]-[2023/02/08 13:22:03] Total 27050 files processed
+[INFO]-[2023/02/08 13:22:03] Total 27100 files processed
+[INFO]-[2023/02/08 13:22:03] Total 27150 files processed
+[INFO]-[2023/02/08 13:22:03] Total 27200 files processed
+[INFO]-[2023/02/08 13:22:04] Total 27250 files processed
+[INFO]-[2023/02/08 13:22:04] Total 27300 files processed
+[INFO]-[2023/02/08 13:22:04] Total 27350 files processed
+[INFO]-[2023/02/08 13:22:04] Total 27400 files processed
+[INFO]-[2023/02/08 13:22:04] Skipping big file: /usr/local/lsws/queenbox.vn/html/wp-content/ai1wm-backups/queenbox.vn-20230131-104245-dxymjy.wpress
+[INFO]-[2023/02/08 13:22:04] Total 27450 files processed
+[INFO]-[2023/02/08 13:22:04] Total 27500 files processed
+[INFO]-[2023/02/08 13:22:04] Total 27550 files processed
+[INFO]-[2023/02/08 13:22:05] Total 27600 files processed
+[INFO]-[2023/02/08 13:22:05] Total 27650 files processed
+[INFO]-[2023/02/08 13:22:05] Total 27700 files processed
+[INFO]-[2023/02/08 13:22:05] Total 27750 files processed
+[INFO]-[2023/02/08 13:22:05] Total 27800 files processed
+[INFO]-[2023/02/08 13:22:05] Total 27850 files processed
+[INFO]-[2023/02/08 13:22:06] Total 27900 files processed
+[INFO]-[2023/02/08 13:22:06] Total 27950 files processed
+[INFO]-[2023/02/08 13:22:06] Total 28000 files processed
+[INFO]-[2023/02/08 13:22:06] Total 28050 files processed
+[INFO]-[2023/02/08 13:22:06] Total 28100 files processed
+[INFO]-[2023/02/08 13:22:06] Total 28150 files processed
+[INFO]-[2023/02/08 13:22:06] Total 28200 files processed
+[INFO]-[2023/02/08 13:22:07] Total 28250 files processed
+[INFO]-[2023/02/08 13:22:07] Total 28300 files processed
+[INFO]-[2023/02/08 13:22:07] Total 28350 files processed
+[INFO]-[2023/02/08 13:22:07] Total 28400 files processed
+[INFO]-[2023/02/08 13:22:07] Total 28450 files processed
+[INFO]-[2023/02/08 13:22:07] Total 28500 files processed
+[INFO]-[2023/02/08 13:22:08] Total 28550 files processed
+[INFO]-[2023/02/08 13:22:08] Total 28600 files processed
+[INFO]-[2023/02/08 13:22:08] Total 28650 files processed
+[INFO]-[2023/02/08 13:22:08] Total 28700 files processed
+[INFO]-[2023/02/08 13:22:08] Total 28750 files processed
+[INFO]-[2023/02/08 13:22:08] Total 28800 files processed
+[INFO]-[2023/02/08 13:22:09] Total 28850 files processed
+[INFO]-[2023/02/08 13:22:09] Total 28900 files processed
+[INFO]-[2023/02/08 13:22:09] Total 28950 files processed
+[INFO]-[2023/02/08 13:22:09] Total 29000 files processed
+[INFO]-[2023/02/08 13:22:09] Total 29050 files processed
+[INFO]-[2023/02/08 13:22:10] Total 29100 files processed
+[INFO]-[2023/02/08 13:22:10] Total 29150 files processed
+[INFO]-[2023/02/08 13:22:10] Total 29200 files processed
+[INFO]-[2023/02/08 13:22:10] Total 29250 files processed
+[INFO]-[2023/02/08 13:22:10] Total 29300 files processed
+[INFO]-[2023/02/08 13:22:10] Total 29350 files processed
+[INFO]-[2023/02/08 13:22:10] Total 29400 files processed
+[INFO]-[2023/02/08 13:22:11] Total 29450 files processed
+[INFO]-[2023/02/08 13:22:11] Total 29500 files processed
+[INFO]-[2023/02/08 13:22:11] Total 29550 files processed
+[INFO]-[2023/02/08 13:22:11] Total 29600 files processed
+[INFO]-[2023/02/08 13:22:11] Total 29650 files processed
+[INFO]-[2023/02/08 13:22:12] Total 29700 files processed
+[INFO]-[2023/02/08 13:22:12] Total 29750 files processed
+[INFO]-[2023/02/08 13:22:12] Total 29800 files processed
+[INFO]-[2023/02/08 13:22:12] Total 29850 files processed
+[INFO]-[2023/02/08 13:22:12] Total 29900 files processed
+[INFO]-[2023/02/08 13:22:12] Skipped symlinking Wp Uploads Folder
+[INFO]-[2023/02/08 13:22:12] Copying files finished
+[INFO]-[2023/02/08 13:22:13] DB Data Step 0: Copy wp-config.php file
+[INFO]-[2023/02/08 13:22:13] DB Data Step 0: Skipping: wp-config.php already exists in /usr/local/lsws/queenbox.vn/html/test/wp-config.php
+[INFO]-[2023/02/08 13:22:13] DB Data Step 1: Updating siteurl and homeurl in wpstg0_options to https://queenbox.vn/test
+[INFO]-[2023/02/08 13:22:13] DB Data Step 3: Updating db prefix in wpstg0_usermeta.
+[INFO]-[2023/02/08 13:22:13] DB Data Step 4: Updating table_prefix in /usr/local/lsws/queenbox.vn/html/test/wp-config.php to wpstg0_
+[INFO]-[2023/02/08 13:22:13] DB Data Step 5: WP installation is not in a subdirectory! Skipping this step
+[INFO]-[2023/02/08 13:22:13] DB Data Step 6: Updating db prefix in wpstg0_options.
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Updating constants in wp-config.php
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Added:UPLOADS
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Added:WP_PLUGIN_DIR
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Added:WP_PLUGIN_URL
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Added:WP_LANG_DIR
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Added:WP_HOME
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Added:WP_SITEURL
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Added:WP_CACHE
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Added:WP_ENVIRONMENT_TYPE
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Skipping: WP_ALLOW_MULTISITE not defined in wp-config.php.
+[INFO]-[2023/02/08 13:22:13] DB Data Step 7: Skipping: MULTISITE not defined in wp-config.php.
+[INFO]-[2023/02/08 13:22:14] Finish: Deleting clone job's cache files...
+[INFO]-[2023/02/08 13:22:14] Finish: Clone job's cache files have been deleted!
+[INFO]-[2023/02/08 13:22:14] Finish: Verifying existing clones...
+[INFO]-[2023/02/08 13:22:14] Finish: The job finished!
