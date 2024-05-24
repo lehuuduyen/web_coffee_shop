@@ -8,7 +8,7 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 
 	<?php wp_head(); ?>
-	<script src="https://kit.fontawesome.com/62ecb389af.js" crossorigin="anonymous"></script>
+	<!-- <script src="https://kit.fontawesome.com/62ecb389af.js" crossorigin="anonymous"></script> -->
 
 
 </head>
@@ -44,10 +44,10 @@
 				$custom_cart_content = flatsome_option('html_cart_header');
 				$icon_style = flatsome_option('cart_icon_style');
 				$icon = flatsome_option('cart_icon');
-				$disable_mini_cart = apply_filters( 'flatsome_disable_mini_cart', is_cart() || is_checkout() );
-				if ( $disable_mini_cart ) {
-					$cart_style = 'link';
-				}
+				// $disable_mini_cart = apply_filters( 'flatsome_disable_mini_cart', is_cart() || is_checkout() );
+				// if ( $disable_mini_cart ) {
+				// 	$cart_style = 'link';
+				// }
 				?>
 				<a href="<?php echo esc_url( wc_get_cart_url() ); ?>" title="<?php _e('Cart', 'woocommerce'); ?>" class="header-cart-link <?php echo get_flatsome_icon_class($icon_style, 'small'); ?>">
 
